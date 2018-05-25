@@ -7,6 +7,3 @@ vlc.exe rtsp://IP-ADDRESS:8554/ --video-filter scene --scene-format jpg --scene-
 ### 5. Start Java main
 
 
-
-
-vlc rtsp://192.168.2.56:8554/ --video-filter scene --scene-format jpg --scene-prefix test --scene-path C:\Users\wenbo\Desktop\objectsdetection\Sample --no-scene-replace --scene-ratio 150
