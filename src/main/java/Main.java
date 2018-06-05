@@ -1,34 +1,24 @@
-import java.io.FileInputStream;
-import java.io.IOException;
-import java.util.HashMap;
-import java.util.Map;
-import java.util.Properties;
+import org.apache.logging.log4j.Logger;
+import org.apache.logging.log4j.LogManager;
+import java.util.*;
+import java.util.concurrent.*;
 
 
 public class Main {
 
     private static HashMap<String, String> configProp;
 
-    public static void main(String[] args) {
-        configProp = getConfigProperties();
-        ImageFileNameQueue imageFileNameQueue = new ImageFileNameQueue(configProp);
-        imageFileNameQueue.run();
-    }
+    static Logger logger = LogManager.getLogger(LogManager.ROOT_LOGGER_NAME);
 
-    private static HashMap<String, String> getConfigProperties() {
+    public static void main(String[] args) throws InterruptedException, ExecutionException {
 
-        Properties configProp = new Properties();
+        logger.info("Starting Main ...");
 
-        try (FileInputStream configFile = new FileInputStream(Constants.CONFIG_FILE_PATH)) {
-
-            configProp.load(configFile);
-
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-
-        return new HashMap<String, String>((Map) configProp);
+        Controller controller = new Controller();
+        controller.run();
 
     }
+
+
 
 }

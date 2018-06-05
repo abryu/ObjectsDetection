@@ -14,16 +14,16 @@ vlc.exe rtsp://IP-ADDRESS:8554/ --video-filter scene --scene-format jpg --scene-
 
 3. Producer.java lists files in TARGET_IMAGE_DIR, does valid file name checking (avoid image.jpg.swp), put valid file names in the Queue.
 
-4. Treads(Consumer.java) take the images name from the Queue, call ImageProcessor.java.
+4. Treads(Consumer.java) take the images name from the Queue, call Processor.java.
 
-5. ImageProcessor.java creates FileInputStream, and call Watson (ImageClassification.java) for classification.
+5. Processor.java creates FileInputStream, and call Watson (ImageClassification.java) for classification.
 
 6. After classifying existing files, a Java WatchService monitons the directory.
 
 7. If a new image created by Instructions 3, the WatchService valid file name and put the valid image file names into the Queue.
 
-8. Treads(Consumer.java) take the images name from the Queue, call ImageProcessor.java.
+8. Treads(Consumer.java) take the images name from the Queue, call Processor.java.
 
-9. ImageProcessor.java creates FileInputStream, and call Watson (ImageClassification.java) for classification.
+9. Processor.java creates FileInputStream, and call Watson (ImageClassification.java) for classification.
 
 10. The result could be formated to print out Classifiers only. Later could be integrated with Notification services (e.g. Twillio).

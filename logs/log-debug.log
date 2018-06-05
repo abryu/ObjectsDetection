@@ -1,0 +1,1033 @@
+2018.06.05 12:21:29 EDT DEBUG Producer 34 lambda$loadExistingImages$0 - Loading Existing File Sample\test00104.jpg
+2018.06.05 12:21:29 EDT DEBUG Producer 34 lambda$loadExistingImages$0 - Loading Existing File Sample\test00122.jpg
+2018.06.05 12:21:29 EDT DEBUG Producer 34 lambda$loadExistingImages$0 - Loading Existing File Sample\test00199.jpg
+2018.06.05 12:21:29 EDT DEBUG Producer 34 lambda$loadExistingImages$0 - Loading Existing File Sample\test00257.jpg
+2018.06.05 12:21:29 EDT DEBUG Producer 34 lambda$loadExistingImages$0 - Loading Existing File Sample\test00262.jpg
+2018.06.05 12:21:29 EDT DEBUG Producer 34 lambda$loadExistingImages$0 - Loading Existing File Sample\test00340.jpg
+2018.06.05 12:21:29 EDT DEBUG Producer 34 lambda$loadExistingImages$0 - Loading Existing File Sample\test00366.jpg
+2018.06.05 12:21:29 EDT DEBUG Producer 34 lambda$loadExistingImages$0 - Loading Existing File Sample\test00407.jpg
+2018.06.05 12:21:29 EDT DEBUG Producer 34 lambda$loadExistingImages$0 - Loading Existing File Sample\test00507.jpg
+2018.06.05 12:21:29 EDT DEBUG Producer 34 lambda$loadExistingImages$0 - Loading Existing File Sample\test00607.jpg
+2018.06.05 12:21:29 EDT DEBUG Producer 34 lambda$loadExistingImages$0 - Loading Existing File Sample\test00633.jpg
+2018.06.05 12:21:29 EDT DEBUG Producer 34 lambda$loadExistingImages$0 - Loading Existing File Sample\test00645.jpg
+2018.06.05 12:21:29 EDT DEBUG Producer 34 lambda$loadExistingImages$0 - Loading Existing File Sample\test00656.jpg
+2018.06.05 12:21:29 EDT DEBUG Producer 34 lambda$loadExistingImages$0 - Loading Existing File Sample\test00685.jpg
+2018.06.05 12:21:29 EDT DEBUG Producer 34 lambda$loadExistingImages$0 - Loading Existing File Sample\test00696.jpg
+2018.06.05 12:21:29 EDT DEBUG Producer 34 lambda$loadExistingImages$0 - Loading Existing File Sample\test00701.jpg
+2018.06.05 12:21:29 EDT DEBUG Producer 34 lambda$loadExistingImages$0 - Loading Existing File Sample\test00740.jpg
+2018.06.05 12:21:29 EDT DEBUG Producer 34 lambda$loadExistingImages$0 - Loading Existing File Sample\test00747.jpg
+2018.06.05 12:21:29 EDT DEBUG Producer 34 lambda$loadExistingImages$0 - Loading Existing File Sample\test01071.jpg
+2018.06.05 12:21:29 EDT DEBUG Producer 34 lambda$loadExistingImages$0 - Loading Existing File Sample\test01118.jpg
+2018.06.05 12:21:29 EDT DEBUG Producer 34 lambda$loadExistingImages$0 - Loading Existing File Sample\test01133.jpg
+2018.06.05 12:21:29 EDT DEBUG Producer 34 lambda$loadExistingImages$0 - Loading Existing File Sample\test01184.jpg
+2018.06.05 12:21:29 EDT DEBUG Producer 34 lambda$loadExistingImages$0 - Loading Existing File Sample\test01227.jpg
+2018.06.05 12:21:29 EDT DEBUG Producer 34 lambda$loadExistingImages$0 - Loading Existing File Sample\test01286.jpg
+2018.06.05 12:21:29 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test01206.jpg
+
+2018.06.05 12:21:29 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00158.jpg
+
+2018.06.05 12:21:29 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00930.jpg
+
+2018.06.05 12:21:29 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test01113.jpg
+
+2018.06.05 12:21:29 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test01284.jpg
+
+2018.06.05 12:21:29 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test01217.jpg
+
+2018.06.05 12:21:29 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00097.jpg
+
+2018.06.05 12:21:29 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00355.jpg
+
+2018.06.05 12:21:29 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test01050.jpg
+
+2018.06.05 12:21:29 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00476.jpg
+
+2018.06.05 12:21:29 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00730.jpg
+
+2018.06.05 12:21:30 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test01011.jpg
+
+2018.06.05 12:21:30 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00494.jpg
+
+2018.06.05 12:21:30 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00417.jpg
+
+2018.06.05 12:21:30 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00660.jpg
+
+2018.06.05 12:21:30 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test01300.jpg
+
+2018.06.05 12:21:30 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00599.jpg
+
+2018.06.05 12:21:30 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00226.jpg
+
+2018.06.05 12:21:30 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test01178.jpg
+
+2018.06.05 12:21:30 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00728.jpg
+
+2018.06.05 12:21:30 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00100.jpg
+
+2018.06.05 12:21:30 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00743.jpg
+
+2018.06.05 12:21:30 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00131.jpg
+
+2018.06.05 12:21:30 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00032.jpg
+
+2018.06.05 12:21:30 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test01161.jpg
+
+2018.06.05 12:21:30 EDT DEBUG Consumer 83 run - Cleaning List from 0 to 48 
+
+2018.06.05 12:21:30 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test01094.jpg
+
+2018.06.05 12:21:30 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00104.jpg
+2018.06.05 12:21:30 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00122.jpg
+2018.06.05 12:21:30 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00967.jpg
+
+2018.06.05 12:21:30 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00199.jpg
+2018.06.05 12:21:30 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00257.jpg
+2018.06.05 12:21:30 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00262.jpg
+2018.06.05 12:21:30 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00340.jpg
+2018.06.05 12:21:30 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00134.jpg
+
+2018.06.05 12:21:30 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00366.jpg
+2018.06.05 12:21:30 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00407.jpg
+2018.06.05 12:21:30 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00507.jpg
+2018.06.05 12:21:30 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00607.jpg
+2018.06.05 12:21:30 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00633.jpg
+2018.06.05 12:21:30 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00045.jpg
+
+2018.06.05 12:21:30 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00645.jpg
+2018.06.05 12:21:30 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00656.jpg
+2018.06.05 12:21:30 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00685.jpg
+2018.06.05 12:21:30 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00696.jpg
+2018.06.05 12:21:30 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00701.jpg
+2018.06.05 12:21:30 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00740.jpg
+2018.06.05 12:21:30 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00747.jpg
+2018.06.05 12:21:30 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test01137.jpg
+
+2018.06.05 12:21:30 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01071.jpg
+2018.06.05 12:21:30 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01118.jpg
+2018.06.05 12:21:30 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01133.jpg
+2018.06.05 12:21:30 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01184.jpg
+2018.06.05 12:21:30 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01227.jpg
+2018.06.05 12:21:30 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00051.jpg
+
+2018.06.05 12:21:30 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01286.jpg
+2018.06.05 12:21:30 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01206.jpg
+2018.06.05 12:21:30 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00158.jpg
+2018.06.05 12:21:30 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00930.jpg
+2018.06.05 12:21:30 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01113.jpg
+2018.06.05 12:21:30 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01284.jpg
+2018.06.05 12:21:30 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01217.jpg
+2018.06.05 12:21:30 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00039.jpg
+
+2018.06.05 12:21:30 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00097.jpg
+2018.06.05 12:21:30 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00355.jpg
+2018.06.05 12:21:30 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test01319.jpg
+
+2018.06.05 12:21:30 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01050.jpg
+2018.06.05 12:21:30 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00476.jpg
+2018.06.05 12:21:30 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00340.jpg
+
+2018.06.05 12:21:30 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00730.jpg
+2018.06.05 12:21:30 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01011.jpg
+2018.06.05 12:21:30 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00494.jpg
+2018.06.05 12:21:30 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00417.jpg
+2018.06.05 12:21:31 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00660.jpg
+2018.06.05 12:21:31 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01300.jpg
+2018.06.05 12:21:31 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00599.jpg
+2018.06.05 12:21:31 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00226.jpg
+2018.06.05 12:21:31 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01178.jpg
+2018.06.05 12:21:31 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00728.jpg
+2018.06.05 12:21:31 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00100.jpg
+2018.06.05 12:21:31 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00743.jpg
+2018.06.05 12:21:31 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00131.jpg
+2018.06.05 12:21:31 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00032.jpg
+2018.06.05 12:21:31 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00263.jpg
+
+2018.06.05 12:21:31 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test01350.jpg
+
+2018.06.05 12:21:31 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test01157.jpg
+
+2018.06.05 12:21:31 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test01175.jpg
+
+2018.06.05 12:21:31 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test01046.jpg
+
+2018.06.05 12:21:31 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00323.jpg
+
+2018.06.05 12:21:31 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00874.jpg
+
+2018.06.05 12:21:31 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00129.jpg
+
+2018.06.05 12:21:31 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00950.jpg
+
+2018.06.05 12:21:31 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00766.jpg
+
+2018.06.05 12:21:31 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00838.jpg
+
+2018.06.05 12:21:31 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00674.jpg
+
+2018.06.05 12:21:31 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00841.jpg
+
+2018.06.05 12:21:31 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00452.jpg
+
+2018.06.05 12:21:31 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00232.jpg
+
+2018.06.05 12:21:31 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test01070.jpg
+
+2018.06.05 12:21:31 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00565.jpg
+
+2018.06.05 12:21:31 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00192.jpg
+
+2018.06.05 12:21:31 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test01208.jpg
+
+2018.06.05 12:21:31 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00573.jpg
+
+2018.06.05 12:21:31 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00542.jpg
+
+2018.06.05 12:21:31 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00664.jpg
+
+2018.06.05 12:21:31 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00961.jpg
+
+2018.06.05 12:21:31 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00165.jpg
+
+2018.06.05 12:21:31 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00572.jpg
+
+2018.06.05 12:21:31 EDT DEBUG Processor 76 deleteImage - Deleting Sample\test00097.jpg
+2018.06.05 12:21:32 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00431.jpg
+
+2018.06.05 12:21:32 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test01056.jpg
+
+2018.06.05 12:21:32 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test01295.jpg
+
+2018.06.05 12:21:32 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00865.jpg
+
+2018.06.05 12:21:32 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00563.jpg
+
+2018.06.05 12:21:32 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00381.jpg
+
+2018.06.05 12:21:32 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test01058.jpg
+
+2018.06.05 12:21:32 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00173.jpg
+
+2018.06.05 12:21:32 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00061.jpg
+
+2018.06.05 12:21:32 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test01007.jpg
+
+2018.06.05 12:21:32 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00959.jpg
+
+2018.06.05 12:21:32 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test01309.jpg
+
+2018.06.05 12:21:32 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test01159.jpg
+
+2018.06.05 12:21:32 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00828.jpg
+
+2018.06.05 12:21:32 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00798.jpg
+
+2018.06.05 12:21:32 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00928.jpg
+
+2018.06.05 12:21:32 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00093.jpg
+
+2018.06.05 12:21:32 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00002.jpg
+
+2018.06.05 12:21:32 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00435.jpg
+
+2018.06.05 12:21:32 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00600.jpg
+
+2018.06.05 12:21:32 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test01229.jpg
+
+2018.06.05 12:21:32 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00379.jpg
+
+2018.06.05 12:21:32 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00076.jpg
+
+2018.06.05 12:21:33 EDT DEBUG Processor 76 deleteImage - Deleting Sample\test00199.jpg
+2018.06.05 12:21:33 EDT DEBUG Consumer 83 run - Cleaning List from 0 to 58 
+
+2018.06.05 12:21:33 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01161.jpg
+2018.06.05 12:21:33 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01094.jpg
+2018.06.05 12:21:33 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00967.jpg
+2018.06.05 12:21:33 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00134.jpg
+2018.06.05 12:21:33 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00045.jpg
+2018.06.05 12:21:33 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01137.jpg
+2018.06.05 12:21:33 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00051.jpg
+2018.06.05 12:21:33 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00039.jpg
+2018.06.05 12:21:33 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01319.jpg
+2018.06.05 12:21:33 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00340.jpg
+2018.06.05 12:21:33 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00263.jpg
+2018.06.05 12:21:33 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01350.jpg
+2018.06.05 12:21:33 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01157.jpg
+2018.06.05 12:21:33 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01175.jpg
+2018.06.05 12:21:33 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01046.jpg
+2018.06.05 12:21:33 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00323.jpg
+2018.06.05 12:21:33 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00874.jpg
+2018.06.05 12:21:33 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00129.jpg
+2018.06.05 12:21:33 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00950.jpg
+2018.06.05 12:21:33 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00766.jpg
+2018.06.05 12:21:33 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00838.jpg
+2018.06.05 12:21:33 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00674.jpg
+2018.06.05 12:21:33 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00841.jpg
+2018.06.05 12:21:33 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00452.jpg
+2018.06.05 12:21:33 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00232.jpg
+2018.06.05 12:21:33 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01070.jpg
+2018.06.05 12:21:33 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00565.jpg
+2018.06.05 12:21:33 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00192.jpg
+2018.06.05 12:21:33 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01208.jpg
+2018.06.05 12:21:33 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00573.jpg
+2018.06.05 12:21:33 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00542.jpg
+2018.06.05 12:21:33 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00664.jpg
+2018.06.05 12:21:33 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00961.jpg
+2018.06.05 12:21:33 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00165.jpg
+2018.06.05 12:21:33 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00572.jpg
+2018.06.05 12:21:33 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00431.jpg
+2018.06.05 12:21:33 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01056.jpg
+2018.06.05 12:21:33 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01295.jpg
+2018.06.05 12:21:33 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00865.jpg
+2018.06.05 12:21:33 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00563.jpg
+2018.06.05 12:21:33 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00223.jpg
+
+2018.06.05 12:21:33 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00381.jpg
+2018.06.05 12:21:33 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01058.jpg
+2018.06.05 12:21:33 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00173.jpg
+2018.06.05 12:21:33 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00061.jpg
+2018.06.05 12:21:33 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01007.jpg
+2018.06.05 12:21:33 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00959.jpg
+2018.06.05 12:21:33 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01309.jpg
+2018.06.05 12:21:33 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00662.jpg
+
+2018.06.05 12:21:33 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01159.jpg
+2018.06.05 12:21:33 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00828.jpg
+2018.06.05 12:21:33 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00798.jpg
+2018.06.05 12:21:33 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00928.jpg
+2018.06.05 12:21:33 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00093.jpg
+2018.06.05 12:21:33 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00002.jpg
+2018.06.05 12:21:33 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test01239.jpg
+
+2018.06.05 12:21:33 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00435.jpg
+2018.06.05 12:21:33 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00600.jpg
+2018.06.05 12:21:33 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01229.jpg
+2018.06.05 12:21:33 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00379.jpg
+2018.06.05 12:21:33 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00076.jpg
+2018.06.05 12:21:33 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test01240.jpg
+
+2018.06.05 12:21:33 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00446.jpg
+
+2018.06.05 12:21:33 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test01185.jpg
+
+2018.06.05 12:21:33 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test01175.jpg
+
+2018.06.05 12:21:33 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test01295.jpg
+
+2018.06.05 12:21:33 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test01006.jpg
+
+2018.06.05 12:21:33 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00166.jpg
+
+2018.06.05 12:21:33 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00136.jpg
+
+2018.06.05 12:21:33 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00891.jpg
+
+2018.06.05 12:21:33 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00934.jpg
+
+2018.06.05 12:21:33 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00830.jpg
+
+2018.06.05 12:21:33 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00183.jpg
+
+2018.06.05 12:21:33 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00209.jpg
+
+2018.06.05 12:21:33 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00963.jpg
+
+2018.06.05 12:21:33 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00441.jpg
+
+2018.06.05 12:21:33 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00015.jpg
+
+2018.06.05 12:21:33 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test01141.jpg
+
+2018.06.05 12:21:33 EDT DEBUG Processor 76 deleteImage - Deleting Sample\test01046.jpg
+2018.06.05 12:21:33 EDT DEBUG Processor 76 deleteImage - Deleting Sample\test01309.jpg
+2018.06.05 12:21:33 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test01128.jpg
+
+2018.06.05 12:21:33 EDT DEBUG Consumer 83 run - Cleaning List from 0 to 20 
+
+2018.06.05 12:21:33 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00223.jpg
+2018.06.05 12:21:33 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00662.jpg
+2018.06.05 12:21:33 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01239.jpg
+2018.06.05 12:21:33 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01240.jpg
+2018.06.05 12:21:33 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00446.jpg
+2018.06.05 12:21:33 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01185.jpg
+2018.06.05 12:21:33 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01175.jpg
+2018.06.05 12:21:33 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test01129.jpg
+
+2018.06.05 12:21:33 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01295.jpg
+2018.06.05 12:21:33 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01006.jpg
+2018.06.05 12:21:33 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00166.jpg
+2018.06.05 12:21:33 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00136.jpg
+2018.06.05 12:21:33 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00891.jpg
+2018.06.05 12:21:33 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00934.jpg
+2018.06.05 12:21:33 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00830.jpg
+2018.06.05 12:21:33 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00183.jpg
+2018.06.05 12:21:33 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00209.jpg
+2018.06.05 12:21:33 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00963.jpg
+2018.06.05 12:21:33 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00441.jpg
+2018.06.05 12:21:33 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00015.jpg
+2018.06.05 12:21:34 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00361.jpg
+
+2018.06.05 12:21:34 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01141.jpg
+2018.06.05 12:21:34 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00926.jpg
+
+2018.06.05 12:21:34 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00736.jpg
+
+2018.06.05 12:21:34 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00069.jpg
+
+2018.06.05 12:21:34 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00683.jpg
+
+2018.06.05 12:21:34 EDT DEBUG Processor 76 deleteImage - Deleting Sample\test00830.jpg
+2018.06.05 12:21:34 EDT DEBUG Processor 76 deleteImage - Deleting Sample\test01239.jpg
+2018.06.05 12:21:34 EDT DEBUG Consumer 83 run - Cleaning List from 0 to 6 
+
+2018.06.05 12:21:34 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01128.jpg
+2018.06.05 12:21:34 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01129.jpg
+2018.06.05 12:21:34 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00361.jpg
+2018.06.05 12:21:34 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00926.jpg
+2018.06.05 12:21:34 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00736.jpg
+2018.06.05 12:21:34 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00069.jpg
+2018.06.05 12:21:34 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00683.jpg
+2018.06.05 12:21:34 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00745.jpg
+
+2018.06.05 12:21:34 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00095.jpg
+
+2018.06.05 12:21:34 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00829.jpg
+
+2018.06.05 12:21:34 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00265.jpg
+
+2018.06.05 12:21:34 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00304.jpg
+
+2018.06.05 12:21:34 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00365.jpg
+
+2018.06.05 12:21:34 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test01290.jpg
+
+2018.06.05 12:21:34 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00100.jpg
+
+2018.06.05 12:21:34 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test01067.jpg
+
+2018.06.05 12:21:35 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00354.jpg
+
+2018.06.05 12:21:35 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test01033.jpg
+
+2018.06.05 12:21:35 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00890.jpg
+
+2018.06.05 12:21:35 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00087.jpg
+
+2018.06.05 12:21:35 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00864.jpg
+
+2018.06.05 12:21:35 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test01257.jpg
+
+2018.06.05 12:21:35 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00061.jpg
+
+2018.06.05 12:21:35 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test01196.jpg
+
+2018.06.05 12:21:35 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00157.jpg
+
+2018.06.05 12:21:35 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test01074.jpg
+
+2018.06.05 12:21:35 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00442.jpg
+
+2018.06.05 12:21:35 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00670.jpg
+
+2018.06.05 12:21:35 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00283.jpg
+
+2018.06.05 12:21:35 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00104.jpg
+
+2018.06.05 12:21:35 EDT DEBUG Processor 76 deleteImage - Deleting Sample\test01129.jpg
+2018.06.05 12:21:35 EDT DEBUG Processor 76 deleteImage - Deleting Sample\test00926.jpg
+2018.06.05 12:21:35 EDT DEBUG Consumer 83 run - Cleaning List from 0 to 22 
+
+2018.06.05 12:21:35 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00745.jpg
+2018.06.05 12:21:35 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00095.jpg
+2018.06.05 12:21:35 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00829.jpg
+2018.06.05 12:21:35 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00265.jpg
+2018.06.05 12:21:35 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00304.jpg
+2018.06.05 12:21:35 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00365.jpg
+2018.06.05 12:21:35 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01290.jpg
+2018.06.05 12:21:35 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00100.jpg
+2018.06.05 12:21:35 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01067.jpg
+2018.06.05 12:21:35 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00354.jpg
+2018.06.05 12:21:35 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01033.jpg
+2018.06.05 12:21:35 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00890.jpg
+2018.06.05 12:21:35 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00087.jpg
+2018.06.05 12:21:35 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00864.jpg
+2018.06.05 12:21:35 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01257.jpg
+2018.06.05 12:21:35 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00061.jpg
+2018.06.05 12:21:35 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01196.jpg
+2018.06.05 12:21:35 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00157.jpg
+2018.06.05 12:21:35 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01074.jpg
+2018.06.05 12:21:35 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00442.jpg
+2018.06.05 12:21:35 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00670.jpg
+2018.06.05 12:21:35 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00283.jpg
+2018.06.05 12:21:35 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00104.jpg
+2018.06.05 12:21:35 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00218.jpg
+
+2018.06.05 12:21:35 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00017.jpg
+
+2018.06.05 12:21:35 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test01249.jpg
+
+2018.06.05 12:21:35 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test01136.jpg
+
+2018.06.05 12:21:35 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00234.jpg
+
+2018.06.05 12:21:35 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00288.jpg
+
+2018.06.05 12:21:35 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00453.jpg
+
+2018.06.05 12:21:35 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00056.jpg
+
+2018.06.05 12:21:35 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00081.jpg
+
+2018.06.05 12:21:36 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test01160.jpg
+
+2018.06.05 12:21:36 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00562.jpg
+
+2018.06.05 12:21:36 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00121.jpg
+
+2018.06.05 12:21:36 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test01038.jpg
+
+2018.06.05 12:21:36 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00454.jpg
+
+2018.06.05 12:21:36 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00497.jpg
+
+2018.06.05 12:21:36 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test01165.jpg
+
+2018.06.05 12:21:36 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test01253.jpg
+
+2018.06.05 12:21:36 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00155.jpg
+
+2018.06.05 12:21:36 EDT DEBUG Processor 76 deleteImage - Deleting Sample\test00157.jpg
+2018.06.05 12:21:36 EDT DEBUG Processor 76 deleteImage - Deleting Sample\test00095.jpg
+2018.06.05 12:21:36 EDT DEBUG Consumer 83 run - Cleaning List from 0 to 18 
+
+2018.06.05 12:21:36 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00218.jpg
+2018.06.05 12:21:36 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00017.jpg
+2018.06.05 12:21:36 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01249.jpg
+2018.06.05 12:21:36 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01136.jpg
+2018.06.05 12:21:36 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00234.jpg
+2018.06.05 12:21:36 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00288.jpg
+2018.06.05 12:21:36 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00453.jpg
+2018.06.05 12:21:36 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00056.jpg
+2018.06.05 12:21:36 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00601.jpg
+
+2018.06.05 12:21:36 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00081.jpg
+2018.06.05 12:21:36 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01160.jpg
+2018.06.05 12:21:36 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00562.jpg
+2018.06.05 12:21:36 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00121.jpg
+2018.06.05 12:21:36 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01038.jpg
+2018.06.05 12:21:36 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00454.jpg
+2018.06.05 12:21:36 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00697.jpg
+
+2018.06.05 12:21:36 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00497.jpg
+2018.06.05 12:21:36 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01165.jpg
+2018.06.05 12:21:36 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01253.jpg
+2018.06.05 12:21:36 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00155.jpg
+2018.06.05 12:21:36 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test01261.jpg
+
+2018.06.05 12:21:36 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test01242.jpg
+
+2018.06.05 12:21:36 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00363.jpg
+
+2018.06.05 12:21:36 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00497.jpg
+
+2018.06.05 12:21:36 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00183.jpg
+
+2018.06.05 12:21:36 EDT DEBUG Processor 76 deleteImage - Deleting Sample\test00155.jpg
+2018.06.05 12:21:36 EDT DEBUG Processor 76 deleteImage - Deleting Sample\test01136.jpg
+2018.06.05 12:21:36 EDT DEBUG Consumer 83 run - Cleaning List from 0 to 6 
+
+2018.06.05 12:21:36 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00601.jpg
+2018.06.05 12:21:36 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00697.jpg
+2018.06.05 12:21:36 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01261.jpg
+2018.06.05 12:21:36 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01242.jpg
+2018.06.05 12:21:36 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00363.jpg
+2018.06.05 12:21:36 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00497.jpg
+2018.06.05 12:21:36 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00183.jpg
+2018.06.05 12:21:36 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00596.jpg
+
+2018.06.05 12:21:36 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00827.jpg
+
+2018.06.05 12:21:36 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test01083.jpg
+
+2018.06.05 12:21:36 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00617.jpg
+
+2018.06.05 12:21:36 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test01040.jpg
+
+2018.06.05 12:21:37 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test01102.jpg
+
+2018.06.05 12:21:37 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00340.jpg
+
+2018.06.05 12:21:37 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00687.jpg
+
+2018.06.05 12:21:37 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00030.jpg
+
+2018.06.05 12:21:37 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00400.jpg
+
+2018.06.05 12:21:37 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00560.jpg
+
+2018.06.05 12:21:37 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test01328.jpg
+
+2018.06.05 12:21:37 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00941.jpg
+
+2018.06.05 12:21:37 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test01081.jpg
+
+2018.06.05 12:21:37 EDT DEBUG Processor 76 deleteImage - Deleting Sample\test01242.jpg
+2018.06.05 12:21:37 EDT DEBUG Processor 76 deleteImage - Deleting Sample\test00601.jpg
+2018.06.05 12:21:37 EDT DEBUG Consumer 83 run - Cleaning List from 0 to 14 
+
+2018.06.05 12:21:37 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00596.jpg
+2018.06.05 12:21:37 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00827.jpg
+2018.06.05 12:21:37 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01083.jpg
+2018.06.05 12:21:37 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00617.jpg
+2018.06.05 12:21:37 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01040.jpg
+2018.06.05 12:21:37 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01102.jpg
+2018.06.05 12:21:37 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00340.jpg
+2018.06.05 12:21:37 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00687.jpg
+2018.06.05 12:21:37 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00030.jpg
+2018.06.05 12:21:37 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00400.jpg
+2018.06.05 12:21:37 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00560.jpg
+2018.06.05 12:21:37 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01328.jpg
+2018.06.05 12:21:37 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00941.jpg
+2018.06.05 12:21:37 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01081.jpg
+2018.06.05 12:21:37 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test01348.jpg
+
+2018.06.05 12:21:37 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00987.jpg
+
+2018.06.05 12:21:37 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00870.jpg
+
+2018.06.05 12:21:37 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00289.jpg
+
+2018.06.05 12:21:37 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00805.jpg
+
+2018.06.05 12:21:37 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test01152.jpg
+
+2018.06.05 12:21:37 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00050.jpg
+
+2018.06.05 12:21:37 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00495.jpg
+
+2018.06.05 12:21:37 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00327.jpg
+
+2018.06.05 12:21:37 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test01144.jpg
+
+2018.06.05 12:21:37 EDT DEBUG Processor 76 deleteImage - Deleting Sample\test00941.jpg
+2018.06.05 12:21:37 EDT DEBUG Processor 76 deleteImage - Deleting Sample\test01083.jpg
+2018.06.05 12:21:37 EDT DEBUG Consumer 83 run - Cleaning List from 0 to 10 
+
+2018.06.05 12:21:37 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01348.jpg
+2018.06.05 12:21:37 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00987.jpg
+2018.06.05 12:21:37 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00870.jpg
+2018.06.05 12:21:37 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00289.jpg
+2018.06.05 12:21:37 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00805.jpg
+2018.06.05 12:21:37 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01152.jpg
+2018.06.05 12:21:37 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00050.jpg
+2018.06.05 12:21:37 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00495.jpg
+2018.06.05 12:21:37 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00327.jpg
+2018.06.05 12:21:37 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01144.jpg
+2018.06.05 12:21:37 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test01136.jpg
+
+2018.06.05 12:21:38 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00067.jpg
+
+2018.06.05 12:21:38 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test01086.jpg
+
+2018.06.05 12:21:38 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00599.jpg
+
+2018.06.05 12:21:38 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00232.jpg
+
+2018.06.05 12:21:38 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00242.jpg
+
+2018.06.05 12:21:38 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test01250.jpg
+
+2018.06.05 12:21:38 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00883.jpg
+
+2018.06.05 12:21:38 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test01004.jpg
+
+2018.06.05 12:21:38 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00456.jpg
+
+2018.06.05 12:21:38 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00549.jpg
+
+2018.06.05 12:21:38 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00576.jpg
+
+2018.06.05 12:21:38 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00363.jpg
+
+2018.06.05 12:21:38 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00638.jpg
+
+2018.06.05 12:21:38 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00326.jpg
+
+2018.06.05 12:21:38 EDT DEBUG Processor 76 deleteImage - Deleting Sample\test00870.jpg
+2018.06.05 12:21:38 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00606.jpg
+
+2018.06.05 12:21:38 EDT DEBUG Processor 76 deleteImage - Deleting Sample\test00050.jpg
+2018.06.05 12:21:38 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00305.jpg
+
+2018.06.05 12:21:38 EDT DEBUG Consumer 83 run - Cleaning List from 0 to 16 
+
+2018.06.05 12:21:38 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01136.jpg
+2018.06.05 12:21:38 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00067.jpg
+2018.06.05 12:21:38 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01086.jpg
+2018.06.05 12:21:38 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00599.jpg
+2018.06.05 12:21:38 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00232.jpg
+2018.06.05 12:21:38 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00242.jpg
+2018.06.05 12:21:38 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01250.jpg
+2018.06.05 12:21:38 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00883.jpg
+2018.06.05 12:21:38 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01004.jpg
+2018.06.05 12:21:38 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00456.jpg
+2018.06.05 12:21:38 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00549.jpg
+2018.06.05 12:21:38 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00576.jpg
+2018.06.05 12:21:38 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00363.jpg
+2018.06.05 12:21:38 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00638.jpg
+2018.06.05 12:21:38 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00326.jpg
+2018.06.05 12:21:38 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00606.jpg
+2018.06.05 12:21:38 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00305.jpg
+2018.06.05 12:21:38 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test01025.jpg
+
+2018.06.05 12:21:38 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00277.jpg
+
+2018.06.05 12:21:38 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00311.jpg
+
+2018.06.05 12:21:38 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test01297.jpg
+
+2018.06.05 12:21:38 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00854.jpg
+
+2018.06.05 12:21:38 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00270.jpg
+
+2018.06.05 12:21:38 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00195.jpg
+
+2018.06.05 12:21:38 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00329.jpg
+
+2018.06.05 12:21:38 EDT DEBUG Processor 76 deleteImage - Deleting Sample\test00606.jpg
+2018.06.05 12:21:38 EDT DEBUG Processor 76 deleteImage - Deleting Sample\test00883.jpg
+2018.06.05 12:21:38 EDT DEBUG Consumer 83 run - Cleaning List from 0 to 8 
+
+2018.06.05 12:21:38 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01025.jpg
+2018.06.05 12:21:38 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00277.jpg
+2018.06.05 12:21:38 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00311.jpg
+2018.06.05 12:21:38 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01297.jpg
+2018.06.05 12:21:38 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00854.jpg
+2018.06.05 12:21:38 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00270.jpg
+2018.06.05 12:21:38 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00195.jpg
+2018.06.05 12:21:38 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00329.jpg
+2018.06.05 12:21:39 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test01323.jpg
+
+2018.06.05 12:21:39 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00285.jpg
+
+2018.06.05 12:21:39 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test01119.jpg
+
+2018.06.05 12:21:39 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00041.jpg
+
+2018.06.05 12:21:39 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00020.jpg
+
+2018.06.05 12:21:39 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00026.jpg
+
+2018.06.05 12:21:39 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00702.jpg
+
+2018.06.05 12:21:39 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test01036.jpg
+
+2018.06.05 12:21:39 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00160.jpg
+
+2018.06.05 12:21:39 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00461.jpg
+
+2018.06.05 12:21:39 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00803.jpg
+
+2018.06.05 12:21:39 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00543.jpg
+
+2018.06.05 12:21:39 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test01138.jpg
+
+2018.06.05 12:21:39 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00420.jpg
+
+2018.06.05 12:21:39 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00337.jpg
+
+2018.06.05 12:21:39 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test01064.jpg
+
+2018.06.05 12:21:39 EDT DEBUG Processor 76 deleteImage - Deleting Sample\test00277.jpg
+2018.06.05 12:21:39 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00602.jpg
+
+2018.06.05 12:21:39 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00820.jpg
+
+2018.06.05 12:21:39 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00287.jpg
+
+2018.06.05 12:21:39 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test01346.jpg
+
+2018.06.05 12:21:39 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test01058.jpg
+
+2018.06.05 12:21:39 EDT DEBUG Processor 76 deleteImage - Deleting Sample\test00854.jpg
+2018.06.05 12:21:39 EDT DEBUG Consumer 83 run - Cleaning List from 0 to 20 
+
+2018.06.05 12:21:39 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01323.jpg
+2018.06.05 12:21:39 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00285.jpg
+2018.06.05 12:21:39 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01119.jpg
+2018.06.05 12:21:39 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00041.jpg
+2018.06.05 12:21:39 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00020.jpg
+2018.06.05 12:21:39 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00026.jpg
+2018.06.05 12:21:39 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00202.jpg
+
+2018.06.05 12:21:39 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00702.jpg
+2018.06.05 12:21:39 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01036.jpg
+2018.06.05 12:21:39 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00160.jpg
+2018.06.05 12:21:39 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00461.jpg
+2018.06.05 12:21:39 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00803.jpg
+2018.06.05 12:21:39 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00543.jpg
+2018.06.05 12:21:39 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01138.jpg
+2018.06.05 12:21:39 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00420.jpg
+2018.06.05 12:21:39 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00337.jpg
+2018.06.05 12:21:39 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01064.jpg
+2018.06.05 12:21:39 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00602.jpg
+2018.06.05 12:21:39 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00820.jpg
+2018.06.05 12:21:39 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00287.jpg
+2018.06.05 12:21:39 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01346.jpg
+2018.06.05 12:21:39 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01058.jpg
+2018.06.05 12:21:39 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00793.jpg
+
+2018.06.05 12:21:39 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test01291.jpg
+
+2018.06.05 12:21:39 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test01071.jpg
+
+2018.06.05 12:21:39 EDT DEBUG Processor 76 deleteImage - Deleting Sample\test00160.jpg
+2018.06.05 12:21:39 EDT DEBUG Processor 76 deleteImage - Deleting Sample\test01138.jpg
+2018.06.05 12:21:39 EDT DEBUG Consumer 83 run - Cleaning List from 0 to 4 
+
+2018.06.05 12:21:39 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00202.jpg
+2018.06.05 12:21:39 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00793.jpg
+2018.06.05 12:21:39 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01291.jpg
+2018.06.05 12:21:39 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01071.jpg
+2018.06.05 12:21:40 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00843.jpg
+
+2018.06.05 12:21:40 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00930.jpg
+
+2018.06.05 12:21:40 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test01270.jpg
+
+2018.06.05 12:21:40 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test01133.jpg
+
+2018.06.05 12:21:40 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00056.jpg
+
+2018.06.05 12:21:40 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00182.jpg
+
+2018.06.05 12:21:40 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00529.jpg
+
+2018.06.05 12:21:40 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test01278.jpg
+
+2018.06.05 12:21:40 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00443.jpg
+
+2018.06.05 12:21:40 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00760.jpg
+
+2018.06.05 12:21:40 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00488.jpg
+
+2018.06.05 12:21:40 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test01236.jpg
+
+2018.06.05 12:21:40 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00503.jpg
+
+2018.06.05 12:21:40 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00637.jpg
+
+2018.06.05 12:21:40 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00971.jpg
+
+2018.06.05 12:21:40 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test01009.jpg
+
+2018.06.05 12:21:40 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test01316.jpg
+
+2018.06.05 12:21:40 EDT DEBUG Processor 76 deleteImage - Deleting Sample\test01291.jpg
+2018.06.05 12:21:40 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00334.jpg
+
+2018.06.05 12:21:40 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00308.jpg
+
+2018.06.05 12:21:40 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test01355.jpg
+
+2018.06.05 12:21:40 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00531.jpg
+
+2018.06.05 12:21:40 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00858.jpg
+
+2018.06.05 12:21:40 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00305.jpg
+
+2018.06.05 12:21:40 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00461.jpg
+
+2018.06.05 12:21:40 EDT DEBUG Processor 76 deleteImage - Deleting Sample\test00202.jpg
+2018.06.05 12:21:40 EDT DEBUG Consumer 83 run - Cleaning List from 0 to 24 
+
+2018.06.05 12:21:40 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00843.jpg
+2018.06.05 12:21:40 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00930.jpg
+2018.06.05 12:21:40 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01270.jpg
+2018.06.05 12:21:40 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01133.jpg
+2018.06.05 12:21:40 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00056.jpg
+2018.06.05 12:21:40 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00182.jpg
+2018.06.05 12:21:40 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00529.jpg
+2018.06.05 12:21:40 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01278.jpg
+2018.06.05 12:21:40 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00443.jpg
+2018.06.05 12:21:40 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00760.jpg
+2018.06.05 12:21:40 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00488.jpg
+2018.06.05 12:21:40 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01236.jpg
+2018.06.05 12:21:40 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00141.jpg
+
+2018.06.05 12:21:40 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00503.jpg
+2018.06.05 12:21:40 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00637.jpg
+2018.06.05 12:21:40 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00971.jpg
+2018.06.05 12:21:40 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01009.jpg
+2018.06.05 12:21:40 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01316.jpg
+2018.06.05 12:21:40 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00334.jpg
+2018.06.05 12:21:40 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00308.jpg
+2018.06.05 12:21:40 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01355.jpg
+2018.06.05 12:21:40 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00531.jpg
+2018.06.05 12:21:40 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00858.jpg
+2018.06.05 12:21:40 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00305.jpg
+2018.06.05 12:21:40 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00461.jpg
+2018.06.05 12:21:41 EDT DEBUG Processor 76 deleteImage - Deleting Sample\test00443.jpg
+2018.06.05 12:21:41 EDT DEBUG Processor 76 deleteImage - Deleting Sample\test00503.jpg
+2018.06.05 12:21:41 EDT DEBUG Consumer 83 run - Cleaning List from 0 to 0 
+
+2018.06.05 12:21:41 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00141.jpg
+2018.06.05 12:21:41 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00688.jpg
+
+2018.06.05 12:21:41 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00050.jpg
+
+2018.06.05 12:21:41 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00247.jpg
+
+2018.06.05 12:21:41 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00785.jpg
+
+2018.06.05 12:21:41 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00740.jpg
+
+2018.06.05 12:21:41 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00288.jpg
+
+2018.06.05 12:21:41 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00064.jpg
+
+2018.06.05 12:21:41 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test01099.jpg
+
+2018.06.05 12:21:41 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00046.jpg
+
+2018.06.05 12:21:41 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test01298.jpg
+
+2018.06.05 12:21:41 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test01318.jpg
+
+2018.06.05 12:21:41 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00429.jpg
+
+2018.06.05 12:21:41 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00957.jpg
+
+2018.06.05 12:21:41 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test01282.jpg
+
+2018.06.05 12:21:41 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00660.jpg
+
+2018.06.05 12:21:41 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00675.jpg
+
+2018.06.05 12:21:41 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00790.jpg
+
+2018.06.05 12:21:41 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00388.jpg
+
+2018.06.05 12:21:41 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00319.jpg
+
+2018.06.05 12:21:41 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00158.jpg
+
+2018.06.05 12:21:41 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00496.jpg
+
+2018.06.05 12:21:41 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test01031.jpg
+
+2018.06.05 12:21:41 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00140.jpg
+
+2018.06.05 12:21:41 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00314.jpg
+
+2018.06.05 12:21:41 EDT DEBUG Processor 76 deleteImage - Deleting Sample\test00141.jpg
+2018.06.05 12:21:41 EDT DEBUG Processor 76 deleteImage - Deleting Sample\test00141.jpg
+2018.06.05 12:21:41 EDT DEBUG Consumer 83 run - Cleaning List from 0 to 24 
+
+2018.06.05 12:21:41 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00688.jpg
+2018.06.05 12:21:41 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00050.jpg
+2018.06.05 12:21:41 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00247.jpg
+2018.06.05 12:21:41 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00785.jpg
+2018.06.05 12:21:41 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00740.jpg
+2018.06.05 12:21:41 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00288.jpg
+2018.06.05 12:21:41 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00064.jpg
+2018.06.05 12:21:41 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01099.jpg
+2018.06.05 12:21:41 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00046.jpg
+2018.06.05 12:21:41 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01298.jpg
+2018.06.05 12:21:41 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01318.jpg
+2018.06.05 12:21:41 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00429.jpg
+2018.06.05 12:21:41 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00957.jpg
+2018.06.05 12:21:41 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01282.jpg
+2018.06.05 12:21:41 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00660.jpg
+2018.06.05 12:21:41 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00675.jpg
+2018.06.05 12:21:41 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00790.jpg
+2018.06.05 12:21:41 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00388.jpg
+2018.06.05 12:21:41 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00319.jpg
+2018.06.05 12:21:41 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00158.jpg
+2018.06.05 12:21:41 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00496.jpg
+2018.06.05 12:21:41 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01031.jpg
+2018.06.05 12:21:41 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00140.jpg
+2018.06.05 12:21:41 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00314.jpg
+2018.06.05 12:21:42 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00648.jpg
+
+2018.06.05 12:21:42 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00813.jpg
+
+2018.06.05 12:21:42 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00726.jpg
+
+2018.06.05 12:21:42 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00727.jpg
+
+2018.06.05 12:21:42 EDT DEBUG Processor 76 deleteImage - Deleting Sample\test00675.jpg
+2018.06.05 12:21:42 EDT DEBUG Processor 76 deleteImage - Deleting Sample\test00288.jpg
+2018.06.05 12:21:42 EDT DEBUG Consumer 83 run - Cleaning List from 0 to 4 
+
+2018.06.05 12:21:42 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00648.jpg
+2018.06.05 12:21:42 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00945.jpg
+
+2018.06.05 12:21:42 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test01003.jpg
+
+2018.06.05 12:21:42 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00932.jpg
+
+2018.06.05 12:21:42 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00813.jpg
+2018.06.05 12:21:42 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00726.jpg
+2018.06.05 12:21:42 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00727.jpg
+2018.06.05 12:21:42 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00154.jpg
+
+2018.06.05 12:21:42 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00273.jpg
+
+2018.06.05 12:21:42 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00133.jpg
+
+2018.06.05 12:21:42 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00073.jpg
+
+2018.06.05 12:21:42 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00223.jpg
+
+2018.06.05 12:21:42 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00551.jpg
+
+2018.06.05 12:21:42 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00067.jpg
+
+2018.06.05 12:21:42 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00242.jpg
+
+2018.06.05 12:21:42 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00063.jpg
+
+2018.06.05 12:21:42 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00461.jpg
+
+2018.06.05 12:21:42 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test01145.jpg
+
+2018.06.05 12:21:42 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00494.jpg
+
+2018.06.05 12:21:42 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00053.jpg
+
+2018.06.05 12:21:42 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00531.jpg
+
+2018.06.05 12:21:42 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00676.jpg
+
+2018.06.05 12:21:42 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00630.jpg
+
+2018.06.05 12:21:42 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test00367.jpg
+
+2018.06.05 12:21:42 EDT DEBUG Producer 58 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 test01358.jpg
+
+2018.06.05 12:21:42 EDT DEBUG Processor 76 deleteImage - Deleting Sample\test00726.jpg
+2018.06.05 12:21:42 EDT DEBUG Processor 76 deleteImage - Deleting Sample\test00648.jpg
+2018.06.05 12:21:42 EDT DEBUG Consumer 83 run - Cleaning List from 0 to 20 
+
+2018.06.05 12:21:42 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00945.jpg
+2018.06.05 12:21:42 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01003.jpg
+2018.06.05 12:21:42 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00932.jpg
+2018.06.05 12:21:42 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00154.jpg
+2018.06.05 12:21:42 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00273.jpg
+2018.06.05 12:21:42 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00133.jpg
+2018.06.05 12:21:42 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00073.jpg
+2018.06.05 12:21:42 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00223.jpg
+2018.06.05 12:21:42 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00551.jpg
+2018.06.05 12:21:42 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00067.jpg
+2018.06.05 12:21:42 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00242.jpg
+2018.06.05 12:21:42 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00063.jpg
+2018.06.05 12:21:42 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00461.jpg
+2018.06.05 12:21:42 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01145.jpg
+2018.06.05 12:21:42 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00494.jpg
+2018.06.05 12:21:42 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00053.jpg
+2018.06.05 12:21:42 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00531.jpg
+2018.06.05 12:21:42 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00676.jpg
+2018.06.05 12:21:42 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00630.jpg
+2018.06.05 12:21:42 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test00367.jpg
+2018.06.05 12:21:42 EDT DEBUG Consumer$1 97 deleteImage - Deleting Sample\test01358.jpg

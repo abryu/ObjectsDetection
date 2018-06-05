@@ -1,0 +1,639 @@
+2018.06.05 12:21:29 EDT INFO  Controller 29 createAndRunProducer - Starting Producer ...
+2018.06.05 12:21:29 EDT INFO  Controller 36 createAndRunConsumer - Starting Consumer ...
+2018.06.05 12:21:30 EDT INFO  Consumer 72 run - StartIndex 0, EndIndex 24, RandomIndex 2 (File Name Sample\test00199.jpg), ListSize 48, eachPart 24 
+
+2018.06.05 12:21:30 EDT INFO  Consumer 72 run - StartIndex 24, EndIndex 48, RandomIndex 30 (File Name Sample\test00097.jpg), ListSize 48, eachPart 24 
+
+2018.06.05 12:21:30 EDT INFO  Processor 40 classifyAnImage - Classifying Sample\test00199.jpg on Thread pool-5-thread-1 
+
+2018.06.05 12:21:30 EDT INFO  Processor 40 classifyAnImage - Classifying Sample\test00097.jpg on Thread pool-5-thread-2 
+
+2018.06.05 12:21:31 EDT INFO  Processor 58 parseResult - ----------- Classification Result -----------
+2018.06.05 12:21:31 EDT INFO  Processor 63 lambda$null$0 - [{
+  "class": "wiring",
+  "score": 0.603,
+  "type_hierarchy": "/electrical device/wiring"
+}, {
+  "class": "electrical device",
+  "score": 0.61
+}, {
+  "class": "coal black color",
+  "score": 0.977
+}]
+2018.06.05 12:21:31 EDT INFO  Processor 71 parseResult - ----------------------------------------------
+2018.06.05 12:21:33 EDT INFO  Processor 58 parseResult - ----------- Classification Result -----------
+2018.06.05 12:21:33 EDT INFO  Processor 63 lambda$null$0 - [{
+  "class": "wiring",
+  "score": 0.606,
+  "type_hierarchy": "/electrical device/wiring"
+}, {
+  "class": "electrical device",
+  "score": 0.612
+}, {
+  "class": "coal black color",
+  "score": 0.962
+}]
+2018.06.05 12:21:33 EDT INFO  Processor 71 parseResult - ----------------------------------------------
+2018.06.05 12:21:33 EDT INFO  Consumer 72 run - StartIndex 0, EndIndex 29, RandomIndex 14 (File Name Sample\test01046.jpg), ListSize 58, eachPart 29 
+
+2018.06.05 12:21:33 EDT INFO  Consumer 72 run - StartIndex 29, EndIndex 58, RandomIndex 46 (File Name Sample\test01309.jpg), ListSize 58, eachPart 29 
+
+2018.06.05 12:21:33 EDT INFO  Processor 40 classifyAnImage - Classifying Sample\test01046.jpg on Thread pool-5-thread-2 
+
+2018.06.05 12:21:33 EDT INFO  Processor 40 classifyAnImage - Classifying Sample\test01309.jpg on Thread pool-5-thread-1 
+
+2018.06.05 12:21:33 EDT INFO  Processor 58 parseResult - ----------- Classification Result -----------
+2018.06.05 12:21:33 EDT INFO  Processor 63 lambda$null$0 - [{
+  "class": "woman expecting a baby",
+  "score": 0.746,
+  "type_hierarchy": "/person/female/woman/woman expecting a baby"
+}, {
+  "class": "woman",
+  "score": 0.746
+}, {
+  "class": "female",
+  "score": 0.746
+}, {
+  "class": "person",
+  "score": 0.746
+}, {
+  "class": "alizarine red color",
+  "score": 0.88
+}, {
+  "class": "dark red color",
+  "score": 0.628
+}]
+2018.06.05 12:21:33 EDT INFO  Processor 71 parseResult - ----------------------------------------------
+2018.06.05 12:21:33 EDT INFO  Processor 58 parseResult - ----------- Classification Result -----------
+2018.06.05 12:21:33 EDT INFO  Processor 63 lambda$null$0 - [{
+  "class": "coal black color",
+  "score": 0.964
+}]
+2018.06.05 12:21:33 EDT INFO  Processor 71 parseResult - ----------------------------------------------
+2018.06.05 12:21:33 EDT INFO  Consumer 72 run - StartIndex 0, EndIndex 10, RandomIndex 2 (File Name Sample\test01239.jpg), ListSize 20, eachPart 10 
+
+2018.06.05 12:21:33 EDT INFO  Processor 40 classifyAnImage - Classifying Sample\test01239.jpg on Thread pool-5-thread-2 
+
+2018.06.05 12:21:33 EDT INFO  Consumer 72 run - StartIndex 10, EndIndex 20, RandomIndex 13 (File Name Sample\test00830.jpg), ListSize 20, eachPart 10 
+
+2018.06.05 12:21:33 EDT INFO  Processor 40 classifyAnImage - Classifying Sample\test00830.jpg on Thread pool-5-thread-1 
+
+2018.06.05 12:21:34 EDT INFO  Processor 58 parseResult - ----------- Classification Result -----------
+2018.06.05 12:21:34 EDT INFO  Processor 63 lambda$null$0 - [{
+  "class": "keyboard",
+  "score": 0.652
+}, {
+  "class": "coal black color",
+  "score": 0.991
+}]
+2018.06.05 12:21:34 EDT INFO  Processor 71 parseResult - ----------------------------------------------
+2018.06.05 12:21:34 EDT INFO  Processor 58 parseResult - ----------- Classification Result -----------
+2018.06.05 12:21:34 EDT INFO  Processor 63 lambda$null$0 - [{
+  "class": "wiring",
+  "score": 0.658,
+  "type_hierarchy": "/electrical device/wiring"
+}, {
+  "class": "electrical device",
+  "score": 0.664
+}, {
+  "class": "coal black color",
+  "score": 0.964
+}]
+2018.06.05 12:21:34 EDT INFO  Processor 71 parseResult - ----------------------------------------------
+2018.06.05 12:21:34 EDT INFO  Consumer 72 run - StartIndex 0, EndIndex 3, RandomIndex 1 (File Name Sample\test01129.jpg), ListSize 7, eachPart 3 
+
+2018.06.05 12:21:34 EDT INFO  Processor 40 classifyAnImage - Classifying Sample\test01129.jpg on Thread pool-5-thread-1 
+
+2018.06.05 12:21:34 EDT INFO  Consumer 72 run - StartIndex 3, EndIndex 6, RandomIndex 3 (File Name Sample\test00926.jpg), ListSize 7, eachPart 3 
+
+2018.06.05 12:21:34 EDT INFO  Processor 40 classifyAnImage - Classifying Sample\test00926.jpg on Thread pool-5-thread-2 
+
+2018.06.05 12:21:35 EDT INFO  Processor 58 parseResult - ----------- Classification Result -----------
+2018.06.05 12:21:35 EDT INFO  Processor 63 lambda$null$0 - [{
+  "class": "coal black color",
+  "score": 0.953
+}]
+2018.06.05 12:21:35 EDT INFO  Processor 71 parseResult - ----------------------------------------------
+2018.06.05 12:21:35 EDT INFO  Processor 58 parseResult - ----------- Classification Result -----------
+2018.06.05 12:21:35 EDT INFO  Processor 63 lambda$null$0 - [{
+  "class": "wiring",
+  "score": 0.677,
+  "type_hierarchy": "/electrical device/wiring"
+}, {
+  "class": "electrical device",
+  "score": 0.684
+}, {
+  "class": "coal black color",
+  "score": 0.986
+}]
+2018.06.05 12:21:35 EDT INFO  Processor 71 parseResult - ----------------------------------------------
+2018.06.05 12:21:35 EDT INFO  Consumer 72 run - StartIndex 0, EndIndex 11, RandomIndex 1 (File Name Sample\test00095.jpg), ListSize 23, eachPart 11 
+
+2018.06.05 12:21:35 EDT INFO  Consumer 72 run - StartIndex 11, EndIndex 22, RandomIndex 17 (File Name Sample\test00157.jpg), ListSize 23, eachPart 11 
+
+2018.06.05 12:21:35 EDT INFO  Processor 40 classifyAnImage - Classifying Sample\test00095.jpg on Thread pool-5-thread-1 
+
+2018.06.05 12:21:35 EDT INFO  Processor 40 classifyAnImage - Classifying Sample\test00157.jpg on Thread pool-5-thread-2 
+
+2018.06.05 12:21:36 EDT INFO  Processor 58 parseResult - ----------- Classification Result -----------
+2018.06.05 12:21:36 EDT INFO  Processor 63 lambda$null$0 - [{
+  "class": "wiring",
+  "score": 0.677,
+  "type_hierarchy": "/electrical device/wiring"
+}, {
+  "class": "electrical device",
+  "score": 0.684
+}, {
+  "class": "coal black color",
+  "score": 0.974
+}]
+2018.06.05 12:21:36 EDT INFO  Processor 71 parseResult - ----------------------------------------------
+2018.06.05 12:21:36 EDT INFO  Processor 58 parseResult - ----------- Classification Result -----------
+2018.06.05 12:21:36 EDT INFO  Processor 63 lambda$null$0 - [{
+  "class": "porthole",
+  "score": 0.708,
+  "type_hierarchy": "/supporting structure/framework/window/porthole"
+}, {
+  "class": "window",
+  "score": 0.708
+}, {
+  "class": "framework",
+  "score": 0.708
+}, {
+  "class": "supporting structure",
+  "score": 0.708
+}, {
+  "class": "spotlight",
+  "score": 0.612,
+  "type_hierarchy": "/lamp/spotlight"
+}, {
+  "class": "lamp",
+  "score": 0.675
+}, {
+  "class": "coal black color",
+  "score": 0.834
+}, {
+  "class": "alabaster color",
+  "score": 0.822
+}]
+2018.06.05 12:21:36 EDT INFO  Processor 71 parseResult - ----------------------------------------------
+2018.06.05 12:21:36 EDT INFO  Consumer 72 run - StartIndex 0, EndIndex 9, RandomIndex 3 (File Name Sample\test01136.jpg), ListSize 18, eachPart 9 
+
+2018.06.05 12:21:36 EDT INFO  Processor 40 classifyAnImage - Classifying Sample\test01136.jpg on Thread pool-5-thread-2 
+
+2018.06.05 12:21:36 EDT INFO  Consumer 72 run - StartIndex 9, EndIndex 18, RandomIndex 17 (File Name Sample\test00155.jpg), ListSize 18, eachPart 9 
+
+2018.06.05 12:21:36 EDT INFO  Processor 40 classifyAnImage - Classifying Sample\test00155.jpg on Thread pool-5-thread-1 
+
+2018.06.05 12:21:36 EDT INFO  Processor 58 parseResult - ----------- Classification Result -----------
+2018.06.05 12:21:36 EDT INFO  Processor 63 lambda$null$0 - [{
+  "class": "coal black color",
+  "score": 0.973
+}]
+2018.06.05 12:21:36 EDT INFO  Processor 71 parseResult - ----------------------------------------------
+2018.06.05 12:21:36 EDT INFO  Processor 58 parseResult - ----------- Classification Result -----------
+2018.06.05 12:21:36 EDT INFO  Processor 63 lambda$null$0 - [{
+  "class": "projector",
+  "score": 0.728,
+  "type_hierarchy": "/optical device/projector"
+}, {
+  "class": "optical device",
+  "score": 0.728
+}, {
+  "class": "azure color",
+  "score": 0.709
+}, {
+  "class": "coal black color",
+  "score": 0.628
+}]
+2018.06.05 12:21:36 EDT INFO  Processor 71 parseResult - ----------------------------------------------
+2018.06.05 12:21:36 EDT INFO  Consumer 72 run - StartIndex 0, EndIndex 3, RandomIndex 0 (File Name Sample\test00601.jpg), ListSize 7, eachPart 3 
+
+2018.06.05 12:21:36 EDT INFO  Consumer 72 run - StartIndex 3, EndIndex 6, RandomIndex 3 (File Name Sample\test01242.jpg), ListSize 7, eachPart 3 
+
+2018.06.05 12:21:36 EDT INFO  Processor 40 classifyAnImage - Classifying Sample\test00601.jpg on Thread pool-5-thread-1 
+
+2018.06.05 12:21:36 EDT INFO  Processor 40 classifyAnImage - Classifying Sample\test01242.jpg on Thread pool-5-thread-2 
+
+2018.06.05 12:21:37 EDT INFO  Processor 58 parseResult - ----------- Classification Result -----------
+2018.06.05 12:21:37 EDT INFO  Processor 58 parseResult - ----------- Classification Result -----------
+2018.06.05 12:21:37 EDT INFO  Processor 63 lambda$null$0 - [{
+  "class": "spotlight",
+  "score": 0.771,
+  "type_hierarchy": "/lamp/spotlight"
+}, {
+  "class": "lamp",
+  "score": 0.894
+}, {
+  "class": "alabaster color",
+  "score": 0.979
+}]
+2018.06.05 12:21:37 EDT INFO  Processor 63 lambda$null$0 - [{
+  "class": "woman expecting a baby",
+  "score": 0.634,
+  "type_hierarchy": "/person/female/woman/woman expecting a baby"
+}, {
+  "class": "woman",
+  "score": 0.634
+}, {
+  "class": "female",
+  "score": 0.634
+}, {
+  "class": "person",
+  "score": 0.634
+}, {
+  "class": "sleeve",
+  "score": 0.621
+}, {
+  "class": "alizarine red color",
+  "score": 0.837
+}]
+2018.06.05 12:21:37 EDT INFO  Processor 71 parseResult - ----------------------------------------------
+2018.06.05 12:21:37 EDT INFO  Processor 71 parseResult - ----------------------------------------------
+2018.06.05 12:21:37 EDT INFO  Consumer 72 run - StartIndex 0, EndIndex 7, RandomIndex 2 (File Name Sample\test01083.jpg), ListSize 14, eachPart 7 
+
+2018.06.05 12:21:37 EDT INFO  Processor 40 classifyAnImage - Classifying Sample\test01083.jpg on Thread pool-5-thread-2 
+
+2018.06.05 12:21:37 EDT INFO  Consumer 72 run - StartIndex 7, EndIndex 14, RandomIndex 12 (File Name Sample\test00941.jpg), ListSize 14, eachPart 7 
+
+2018.06.05 12:21:37 EDT INFO  Processor 40 classifyAnImage - Classifying Sample\test00941.jpg on Thread pool-5-thread-1 
+
+2018.06.05 12:21:37 EDT INFO  Processor 58 parseResult - ----------- Classification Result -----------
+2018.06.05 12:21:37 EDT INFO  Processor 63 lambda$null$0 - [{
+  "class": "coal black color",
+  "score": 0.896
+}, {
+  "class": "black color",
+  "score": 0.87
+}]
+2018.06.05 12:21:37 EDT INFO  Processor 71 parseResult - ----------------------------------------------
+2018.06.05 12:21:37 EDT INFO  Processor 58 parseResult - ----------- Classification Result -----------
+2018.06.05 12:21:37 EDT INFO  Processor 63 lambda$null$0 - [{
+  "class": "coal black color",
+  "score": 0.96
+}]
+2018.06.05 12:21:37 EDT INFO  Processor 71 parseResult - ----------------------------------------------
+2018.06.05 12:21:37 EDT INFO  Consumer 72 run - StartIndex 0, EndIndex 5, RandomIndex 2 (File Name Sample\test00870.jpg), ListSize 10, eachPart 5 
+
+2018.06.05 12:21:37 EDT INFO  Consumer 72 run - StartIndex 5, EndIndex 10, RandomIndex 6 (File Name Sample\test00050.jpg), ListSize 10, eachPart 5 
+
+2018.06.05 12:21:37 EDT INFO  Processor 40 classifyAnImage - Classifying Sample\test00870.jpg on Thread pool-5-thread-1 
+
+2018.06.05 12:21:37 EDT INFO  Processor 40 classifyAnImage - Classifying Sample\test00050.jpg on Thread pool-5-thread-2 
+
+2018.06.05 12:21:38 EDT INFO  Processor 58 parseResult - ----------- Classification Result -----------
+2018.06.05 12:21:38 EDT INFO  Processor 63 lambda$null$0 - [{
+  "class": "wiring",
+  "score": 0.674,
+  "type_hierarchy": "/electrical device/wiring"
+}, {
+  "class": "electrical device",
+  "score": 0.679
+}, {
+  "class": "coal black color",
+  "score": 0.977
+}]
+2018.06.05 12:21:38 EDT INFO  Processor 71 parseResult - ----------------------------------------------
+2018.06.05 12:21:38 EDT INFO  Processor 58 parseResult - ----------- Classification Result -----------
+2018.06.05 12:21:38 EDT INFO  Processor 63 lambda$null$0 - [{
+  "class": "lighter",
+  "score": 0.604
+}, {
+  "class": "azure color",
+  "score": 0.741
+}, {
+  "class": "blue color",
+  "score": 0.7
+}]
+2018.06.05 12:21:38 EDT INFO  Processor 71 parseResult - ----------------------------------------------
+2018.06.05 12:21:38 EDT INFO  Consumer 72 run - StartIndex 0, EndIndex 8, RandomIndex 7 (File Name Sample\test00883.jpg), ListSize 17, eachPart 8 
+
+2018.06.05 12:21:38 EDT INFO  Processor 40 classifyAnImage - Classifying Sample\test00883.jpg on Thread pool-5-thread-1 
+
+2018.06.05 12:21:38 EDT INFO  Consumer 72 run - StartIndex 8, EndIndex 16, RandomIndex 15 (File Name Sample\test00606.jpg), ListSize 17, eachPart 8 
+
+2018.06.05 12:21:38 EDT INFO  Processor 40 classifyAnImage - Classifying Sample\test00606.jpg on Thread pool-5-thread-2 
+
+2018.06.05 12:21:38 EDT INFO  Processor 58 parseResult - ----------- Classification Result -----------
+2018.06.05 12:21:38 EDT INFO  Processor 63 lambda$null$0 - [{
+  "class": "wiring",
+  "score": 0.694,
+  "type_hierarchy": "/electrical device/wiring"
+}, {
+  "class": "electrical device",
+  "score": 0.7
+}, {
+  "class": "coal black color",
+  "score": 0.988
+}]
+2018.06.05 12:21:38 EDT INFO  Processor 71 parseResult - ----------------------------------------------
+2018.06.05 12:21:38 EDT INFO  Processor 58 parseResult - ----------- Classification Result -----------
+2018.06.05 12:21:38 EDT INFO  Processor 63 lambda$null$0 - [{
+  "class": "wiring",
+  "score": 0.727,
+  "type_hierarchy": "/electrical device/wiring"
+}, {
+  "class": "electrical device",
+  "score": 0.729
+}, {
+  "class": "coal black color",
+  "score": 0.99
+}]
+2018.06.05 12:21:38 EDT INFO  Processor 71 parseResult - ----------------------------------------------
+2018.06.05 12:21:38 EDT INFO  Consumer 72 run - StartIndex 0, EndIndex 4, RandomIndex 1 (File Name Sample\test00277.jpg), ListSize 8, eachPart 4 
+
+2018.06.05 12:21:38 EDT INFO  Processor 40 classifyAnImage - Classifying Sample\test00277.jpg on Thread pool-5-thread-2 
+
+2018.06.05 12:21:38 EDT INFO  Consumer 72 run - StartIndex 4, EndIndex 8, RandomIndex 4 (File Name Sample\test00854.jpg), ListSize 8, eachPart 4 
+
+2018.06.05 12:21:38 EDT INFO  Processor 40 classifyAnImage - Classifying Sample\test00854.jpg on Thread pool-5-thread-1 
+
+2018.06.05 12:21:39 EDT INFO  Processor 58 parseResult - ----------- Classification Result -----------
+2018.06.05 12:21:39 EDT INFO  Processor 63 lambda$null$0 - [{
+  "class": "wiring",
+  "score": 0.608,
+  "type_hierarchy": "/electrical device/wiring"
+}, {
+  "class": "electrical device",
+  "score": 0.614
+}, {
+  "class": "electrical connector",
+  "score": 0.6
+}, {
+  "class": "coal black color",
+  "score": 0.966
+}]
+2018.06.05 12:21:39 EDT INFO  Processor 71 parseResult - ----------------------------------------------
+2018.06.05 12:21:39 EDT INFO  Processor 58 parseResult - ----------- Classification Result -----------
+2018.06.05 12:21:39 EDT INFO  Processor 63 lambda$null$0 - [{
+  "class": "electrical device",
+  "score": 0.605
+}, {
+  "class": "coal black color",
+  "score": 0.981
+}]
+2018.06.05 12:21:39 EDT INFO  Processor 71 parseResult - ----------------------------------------------
+2018.06.05 12:21:39 EDT INFO  Consumer 72 run - StartIndex 0, EndIndex 10, RandomIndex 8 (File Name Sample\test00160.jpg), ListSize 21, eachPart 10 
+
+2018.06.05 12:21:39 EDT INFO  Processor 40 classifyAnImage - Classifying Sample\test00160.jpg on Thread pool-5-thread-2 
+
+2018.06.05 12:21:39 EDT INFO  Consumer 72 run - StartIndex 10, EndIndex 20, RandomIndex 12 (File Name Sample\test01138.jpg), ListSize 21, eachPart 10 
+
+2018.06.05 12:21:39 EDT INFO  Processor 40 classifyAnImage - Classifying Sample\test01138.jpg on Thread pool-5-thread-1 
+
+2018.06.05 12:21:39 EDT INFO  Processor 58 parseResult - ----------- Classification Result -----------
+2018.06.05 12:21:39 EDT INFO  Processor 58 parseResult - ----------- Classification Result -----------
+2018.06.05 12:21:39 EDT INFO  Processor 63 lambda$null$0 - [{
+  "class": "lamp",
+  "score": 0.923
+}, {
+  "class": "spotlight",
+  "score": 0.714,
+  "type_hierarchy": "/lamp/spotlight"
+}, {
+  "class": "alabaster color",
+  "score": 0.997
+}]
+2018.06.05 12:21:39 EDT INFO  Processor 71 parseResult - ----------------------------------------------
+2018.06.05 12:21:39 EDT INFO  Processor 63 lambda$null$0 - [{
+  "class": "wiring",
+  "score": 0.661,
+  "type_hierarchy": "/electrical device/wiring"
+}, {
+  "class": "electrical device",
+  "score": 0.667
+}, {
+  "class": "coal black color",
+  "score": 0.998
+}]
+2018.06.05 12:21:39 EDT INFO  Processor 71 parseResult - ----------------------------------------------
+2018.06.05 12:21:39 EDT INFO  Consumer 72 run - StartIndex 0, EndIndex 2, RandomIndex 0 (File Name Sample\test00202.jpg), ListSize 4, eachPart 2 
+
+2018.06.05 12:21:39 EDT INFO  Consumer 72 run - StartIndex 2, EndIndex 4, RandomIndex 2 (File Name Sample\test01291.jpg), ListSize 4, eachPart 2 
+
+2018.06.05 12:21:39 EDT INFO  Processor 40 classifyAnImage - Classifying Sample\test00202.jpg on Thread pool-5-thread-2 
+
+2018.06.05 12:21:39 EDT INFO  Processor 40 classifyAnImage - Classifying Sample\test01291.jpg on Thread pool-5-thread-1 
+
+2018.06.05 12:21:40 EDT INFO  Processor 58 parseResult - ----------- Classification Result -----------
+2018.06.05 12:21:40 EDT INFO  Processor 63 lambda$null$0 - [{
+  "class": "igloo",
+  "score": 0.723,
+  "type_hierarchy": "/shelter/igloo"
+}, {
+  "class": "shelter",
+  "score": 0.723
+}, {
+  "class": "porthole",
+  "score": 0.66,
+  "type_hierarchy": "/supporting structure/framework/window/porthole"
+}, {
+  "class": "window",
+  "score": 0.66
+}, {
+  "class": "framework",
+  "score": 0.66
+}, {
+  "class": "supporting structure",
+  "score": 0.66
+}, {
+  "class": "coal black color",
+  "score": 0.913
+}, {
+  "class": "black color",
+  "score": 0.766
+}]
+2018.06.05 12:21:40 EDT INFO  Processor 71 parseResult - ----------------------------------------------
+2018.06.05 12:21:40 EDT INFO  Processor 58 parseResult - ----------- Classification Result -----------
+2018.06.05 12:21:40 EDT INFO  Processor 63 lambda$null$0 - [{
+  "class": "woman expecting a baby",
+  "score": 0.681,
+  "type_hierarchy": "/person/female/woman/woman expecting a baby"
+}, {
+  "class": "woman",
+  "score": 0.682
+}, {
+  "class": "female",
+  "score": 0.682
+}, {
+  "class": "person",
+  "score": 0.682
+}, {
+  "class": "sleeve",
+  "score": 0.643
+}, {
+  "class": "alizarine red color",
+  "score": 0.857
+}, {
+  "class": "dark red color",
+  "score": 0.608
+}]
+2018.06.05 12:21:40 EDT INFO  Processor 71 parseResult - ----------------------------------------------
+2018.06.05 12:21:40 EDT INFO  Consumer 72 run - StartIndex 0, EndIndex 12, RandomIndex 8 (File Name Sample\test00443.jpg), ListSize 24, eachPart 12 
+
+2018.06.05 12:21:40 EDT INFO  Consumer 72 run - StartIndex 12, EndIndex 24, RandomIndex 12 (File Name Sample\test00503.jpg), ListSize 24, eachPart 12 
+
+2018.06.05 12:21:40 EDT INFO  Processor 40 classifyAnImage - Classifying Sample\test00443.jpg on Thread pool-5-thread-1 
+
+2018.06.05 12:21:40 EDT INFO  Processor 40 classifyAnImage - Classifying Sample\test00503.jpg on Thread pool-5-thread-2 
+
+2018.06.05 12:21:41 EDT INFO  Processor 58 parseResult - ----------- Classification Result -----------
+2018.06.05 12:21:41 EDT INFO  Processor 58 parseResult - ----------- Classification Result -----------
+2018.06.05 12:21:41 EDT INFO  Processor 63 lambda$null$0 - [{
+  "class": "woman expecting a baby",
+  "score": 0.785,
+  "type_hierarchy": "/person/female/woman/woman expecting a baby"
+}, {
+  "class": "woman",
+  "score": 0.785
+}, {
+  "class": "female",
+  "score": 0.785
+}, {
+  "class": "person",
+  "score": 0.786
+}, {
+  "class": "alizarine red color",
+  "score": 0.768
+}, {
+  "class": "dark red color",
+  "score": 0.656
+}]
+2018.06.05 12:21:41 EDT INFO  Processor 63 lambda$null$0 - [{
+  "class": "woman expecting a baby",
+  "score": 0.727,
+  "type_hierarchy": "/person/female/woman/woman expecting a baby"
+}, {
+  "class": "woman",
+  "score": 0.728
+}, {
+  "class": "female",
+  "score": 0.728
+}, {
+  "class": "person",
+  "score": 0.728
+}, {
+  "class": "sleeve",
+  "score": 0.632
+}, {
+  "class": "alizarine red color",
+  "score": 0.868
+}, {
+  "class": "dark red color",
+  "score": 0.653
+}]
+2018.06.05 12:21:41 EDT INFO  Processor 71 parseResult - ----------------------------------------------
+2018.06.05 12:21:41 EDT INFO  Processor 71 parseResult - ----------------------------------------------
+2018.06.05 12:21:41 EDT INFO  Consumer 72 run - StartIndex 0, EndIndex 0, RandomIndex 0 (File Name Sample\test00141.jpg), ListSize 1, eachPart 0 
+
+2018.06.05 12:21:41 EDT INFO  Processor 40 classifyAnImage - Classifying Sample\test00141.jpg on Thread pool-5-thread-1 
+
+2018.06.05 12:21:41 EDT INFO  Consumer 72 run - StartIndex 0, EndIndex 0, RandomIndex 0 (File Name Sample\test00141.jpg), ListSize 1, eachPart 0 
+
+2018.06.05 12:21:41 EDT INFO  Processor 40 classifyAnImage - Classifying Sample\test00141.jpg on Thread pool-5-thread-2 
+
+2018.06.05 12:21:41 EDT INFO  Processor 58 parseResult - ----------- Classification Result -----------
+2018.06.05 12:21:41 EDT INFO  Processor 63 lambda$null$0 - [{
+  "class": "wiring",
+  "score": 0.768,
+  "type_hierarchy": "/electrical device/wiring"
+}, {
+  "class": "electrical device",
+  "score": 0.771
+}, {
+  "class": "coal black color",
+  "score": 0.944
+}]
+2018.06.05 12:21:41 EDT INFO  Processor 71 parseResult - ----------------------------------------------
+2018.06.05 12:21:41 EDT INFO  Processor 58 parseResult - ----------- Classification Result -----------
+2018.06.05 12:21:41 EDT INFO  Processor 63 lambda$null$0 - [{
+  "class": "wiring",
+  "score": 0.768,
+  "type_hierarchy": "/electrical device/wiring"
+}, {
+  "class": "electrical device",
+  "score": 0.771
+}, {
+  "class": "coal black color",
+  "score": 0.944
+}]
+2018.06.05 12:21:41 EDT INFO  Processor 71 parseResult - ----------------------------------------------
+2018.06.05 12:21:41 EDT INFO  Consumer 72 run - StartIndex 0, EndIndex 12, RandomIndex 5 (File Name Sample\test00288.jpg), ListSize 24, eachPart 12 
+
+2018.06.05 12:21:41 EDT INFO  Consumer 72 run - StartIndex 12, EndIndex 24, RandomIndex 15 (File Name Sample\test00675.jpg), ListSize 24, eachPart 12 
+
+2018.06.05 12:21:41 EDT INFO  Processor 40 classifyAnImage - Classifying Sample\test00288.jpg on Thread pool-5-thread-2 
+
+2018.06.05 12:21:41 EDT INFO  Processor 40 classifyAnImage - Classifying Sample\test00675.jpg on Thread pool-5-thread-1 
+
+2018.06.05 12:21:42 EDT INFO  Processor 58 parseResult - ----------- Classification Result -----------
+2018.06.05 12:21:42 EDT INFO  Processor 58 parseResult - ----------- Classification Result -----------
+2018.06.05 12:21:42 EDT INFO  Processor 63 lambda$null$0 - [{
+  "class": "coal black color",
+  "score": 0.986
+}]
+2018.06.05 12:21:42 EDT INFO  Processor 63 lambda$null$0 - [{
+  "class": "wiring",
+  "score": 0.745,
+  "type_hierarchy": "/electrical device/wiring"
+}, {
+  "class": "electrical device",
+  "score": 0.75
+}, {
+  "class": "electrical cable",
+  "score": 0.637,
+  "type_hierarchy": "/transmission line/electrical cable"
+}, {
+  "class": "transmission line",
+  "score": 0.644
+}, {
+  "class": "coal black color",
+  "score": 0.969
+}]
+2018.06.05 12:21:42 EDT INFO  Processor 71 parseResult - ----------------------------------------------
+2018.06.05 12:21:42 EDT INFO  Processor 71 parseResult - ----------------------------------------------
+2018.06.05 12:21:42 EDT INFO  Consumer 72 run - StartIndex 0, EndIndex 2, RandomIndex 0 (File Name Sample\test00648.jpg), ListSize 4, eachPart 2 
+
+2018.06.05 12:21:42 EDT INFO  Processor 40 classifyAnImage - Classifying Sample\test00648.jpg on Thread pool-5-thread-2 
+
+2018.06.05 12:21:42 EDT INFO  Consumer 72 run - StartIndex 2, EndIndex 4, RandomIndex 2 (File Name Sample\test00726.jpg), ListSize 4, eachPart 2 
+
+2018.06.05 12:21:42 EDT INFO  Processor 40 classifyAnImage - Classifying Sample\test00726.jpg on Thread pool-5-thread-1 
+
+2018.06.05 12:21:42 EDT INFO  Processor 58 parseResult - ----------- Classification Result -----------
+2018.06.05 12:21:42 EDT INFO  Processor 63 lambda$null$0 - [{
+  "class": "hand",
+  "score": 0.897,
+  "type_hierarchy": "/person/hand"
+}, {
+  "class": "person",
+  "score": 0.897
+}, {
+  "class": "reddish orange color",
+  "score": 0.77
+}, {
+  "class": "dark red color",
+  "score": 0.644
+}]
+2018.06.05 12:21:42 EDT INFO  Processor 71 parseResult - ----------------------------------------------
+2018.06.05 12:21:42 EDT INFO  Processor 58 parseResult - ----------- Classification Result -----------
+2018.06.05 12:21:42 EDT INFO  Processor 63 lambda$null$0 - [{
+  "class": "wiring",
+  "score": 0.686,
+  "type_hierarchy": "/electrical device/wiring"
+}, {
+  "class": "electrical device",
+  "score": 0.693
+}, {
+  "class": "coal black color",
+  "score": 0.962
+}]
+2018.06.05 12:21:42 EDT INFO  Processor 71 parseResult - ----------------------------------------------
+2018.06.05 12:21:42 EDT INFO  Consumer 72 run - StartIndex 0, EndIndex 10, RandomIndex 6 (File Name Sample\test00073.jpg), ListSize 21, eachPart 10 
+
+2018.06.05 12:21:42 EDT INFO  Processor 40 classifyAnImage - Classifying Sample\test00073.jpg on Thread pool-5-thread-1 
+
+2018.06.05 12:21:42 EDT INFO  Consumer 72 run - StartIndex 10, EndIndex 20, RandomIndex 10 (File Name Sample\test00242.jpg), ListSize 21, eachPart 10 
+
+2018.06.05 12:21:42 EDT INFO  Processor 40 classifyAnImage - Classifying Sample\test00242.jpg on Thread pool-5-thread-2 
+
