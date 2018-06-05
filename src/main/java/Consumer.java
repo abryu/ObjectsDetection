@@ -63,8 +63,8 @@ public class Consumer implements Runnable {
                             randomIndex = ThreadLocalRandom.current().nextInt(startIndex, endIndex);
                             filePathToProcess = imagesList.get(randomIndex);
                         } catch (IndexOutOfBoundsException | IllegalArgumentException e) {
-                            logger.error(e.toString());
-                            logger.error("IndexOutOfBoundsException, Use the end index of this divided part");
+                            logger.info(e.toString());
+                            logger.info("IndexOutOfBoundsException, Use the end index of this divided part");
                             randomIndex = endIndex;
                             filePathToProcess = imagesList.get(randomIndex);
                         }
@@ -80,7 +80,7 @@ public class Consumer implements Runnable {
                     }
                 }
 
-                logger.debug(String.format("Cleaning List from %d to %d \n", 0, initSize));
+                logger.info(String.format("Cleaning List from %d to %d \n", 0, initSize));
 
                 List<String> imagesToClean = new ArrayList<String>(imagesList.subList(0, numOfImagesToProcess));
 
@@ -94,7 +94,7 @@ public class Consumer implements Runnable {
                     }
 
                     private void deleteImage(String imageFileName) {
-                        logger.debug("Deleting " + imageFileName);
+                        logger.info("Deleting " + imageFileName);
                         File f = new File(imageFileName);
                         f.delete();
                     }

@@ -1,159 +1,102 @@
 RUNNING copy25Image
 RUNNING copy25Image
-Jun 05, 2018 12:21:31 PM okhttp3.internal.platform.Platform log
+RUNNING copy25Image
+Jun 05, 2018 7:27:04 PM okhttp3.internal.platform.Platform log
 INFO: --> POST https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 http/1.1 (-1-byte body)
-Jun 05, 2018 12:21:31 PM okhttp3.internal.platform.Platform log
+Jun 05, 2018 7:27:04 PM okhttp3.internal.platform.Platform log
+INFO: --> POST https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 http/1.1 (-1-byte body)
+Jun 05, 2018 7:27:05 PM okhttp3.internal.platform.Platform log
+INFO: <-- 200 OK https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 (481ms, unknown-length body)
+Jun 05, 2018 7:27:05 PM okhttp3.internal.platform.Platform log
+INFO: <-- 200 OK https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 (582ms, 517-byte body)
+Jun 05, 2018 7:27:05 PM okhttp3.internal.platform.Platform log
+INFO: --> POST https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 http/1.1 (-1-byte body)
+Jun 05, 2018 7:27:05 PM okhttp3.internal.platform.Platform log
 INFO: --> POST https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 http/1.1 (-1-byte body)
 RUNNING copy25Image
-Jun 05, 2018 12:21:31 PM okhttp3.internal.platform.Platform log
-INFO: <-- 200 OK https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 (664ms, 888-byte body)
-RUNNING copy25Image
-Jun 05, 2018 12:21:33 PM okhttp3.internal.platform.Platform log
-INFO: <-- 200 OK https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 (2207ms, 889-byte body)
-Jun 05, 2018 12:21:33 PM okhttp3.internal.platform.Platform log
+Jun 05, 2018 7:27:05 PM okhttp3.internal.platform.Platform log
+INFO: <-- 200 OK https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 (462ms, unknown-length body)
+Jun 05, 2018 7:27:05 PM okhttp3.internal.platform.Platform log
+INFO: <-- 200 OK https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 (479ms, 881-byte body)
+Jun 05, 2018 7:27:05 PM okhttp3.internal.platform.Platform log
 INFO: --> POST https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 http/1.1 (-1-byte body)
-Jun 05, 2018 12:21:33 PM okhttp3.internal.platform.Platform log
+Jun 05, 2018 7:27:05 PM okhttp3.internal.platform.Platform log
 INFO: --> POST https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 http/1.1 (-1-byte body)
-RUNNING copy25Image
-Jun 05, 2018 12:21:33 PM okhttp3.internal.platform.Platform log
-INFO: <-- 200 OK https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 (513ms, unknown-length body)
-Jun 05, 2018 12:21:33 PM okhttp3.internal.platform.Platform log
-INFO: <-- 200 OK https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 (526ms, 517-byte body)
-Jun 05, 2018 12:21:33 PM okhttp3.internal.platform.Platform log
+Jun 05, 2018 7:27:06 PM okhttp3.internal.platform.Platform log
+INFO: <-- 200 OK https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 (481ms, unknown-length body)
+Jun 05, 2018 7:27:06 PM okhttp3.internal.platform.Platform log
+INFO: <-- 200 OK https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 (518ms, unknown-length body)
+Jun 05, 2018 7:27:06 PM okhttp3.internal.platform.Platform log
 INFO: --> POST https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 http/1.1 (-1-byte body)
-Jun 05, 2018 12:21:33 PM okhttp3.internal.platform.Platform log
+Jun 05, 2018 7:27:06 PM okhttp3.internal.platform.Platform log
 INFO: --> POST https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 http/1.1 (-1-byte body)
 RUNNING copy25Image
-Jun 05, 2018 12:21:34 PM okhttp3.internal.platform.Platform log
-INFO: <-- 200 OK https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 (807ms, 662-byte body)
-Jun 05, 2018 12:21:34 PM okhttp3.internal.platform.Platform log
-INFO: <-- 200 OK https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 (813ms, 889-byte body)
-Jun 05, 2018 12:21:34 PM okhttp3.internal.platform.Platform log
+Jun 05, 2018 7:27:06 PM okhttp3.internal.platform.Platform log
+INFO: <-- 200 OK https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 (425ms, unknown-length body)
+Jun 05, 2018 7:27:06 PM okhttp3.internal.platform.Platform log
+INFO: <-- 200 OK https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 (510ms, 517-byte body)
+Jun 05, 2018 7:27:06 PM okhttp3.internal.platform.Platform log
 INFO: --> POST https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 http/1.1 (-1-byte body)
-Jun 05, 2018 12:21:34 PM okhttp3.internal.platform.Platform log
+Jun 05, 2018 7:27:06 PM okhttp3.internal.platform.Platform log
 INFO: --> POST https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 http/1.1 (-1-byte body)
-Jun 05, 2018 12:21:35 PM okhttp3.internal.platform.Platform log
-INFO: <-- 200 OK https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 (513ms, 517-byte body)
-Jun 05, 2018 12:21:35 PM okhttp3.internal.platform.Platform log
-INFO: <-- 200 OK https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 (808ms, 889-byte body)
-Jun 05, 2018 12:21:35 PM okhttp3.internal.platform.Platform log
+Jun 05, 2018 7:27:07 PM okhttp3.internal.platform.Platform log
+INFO: <-- 200 OK https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 (435ms, unknown-length body)
+Jun 05, 2018 7:27:07 PM okhttp3.internal.platform.Platform log
+INFO: <-- 200 OK https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 (509ms, unknown-length body)
+Jun 05, 2018 7:27:07 PM okhttp3.internal.platform.Platform log
 INFO: --> POST https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 http/1.1 (-1-byte body)
-Jun 05, 2018 12:21:35 PM okhttp3.internal.platform.Platform log
-INFO: --> POST https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 http/1.1 (-1-byte body)
-RUNNING copy25Image
-Jun 05, 2018 12:21:36 PM okhttp3.internal.platform.Platform log
-INFO: <-- 200 OK https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 (517ms, 889-byte body)
-Jun 05, 2018 12:21:36 PM okhttp3.internal.platform.Platform log
-INFO: <-- 200 OK https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 (516ms, unknown-length body)
-Jun 05, 2018 12:21:36 PM okhttp3.internal.platform.Platform log
-INFO: --> POST https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 http/1.1 (-1-byte body)
-Jun 05, 2018 12:21:36 PM okhttp3.internal.platform.Platform log
-INFO: --> POST https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 http/1.1 (-1-byte body)
-Jun 05, 2018 12:21:36 PM okhttp3.internal.platform.Platform log
-INFO: <-- 200 OK https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 (507ms, 517-byte body)
-Jun 05, 2018 12:21:36 PM okhttp3.internal.platform.Platform log
-INFO: <-- 200 OK https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 (510ms, unknown-length body)
-Jun 05, 2018 12:21:36 PM okhttp3.internal.platform.Platform log
-INFO: --> POST https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 http/1.1 (-1-byte body)
-Jun 05, 2018 12:21:36 PM okhttp3.internal.platform.Platform log
+Jun 05, 2018 7:27:07 PM okhttp3.internal.platform.Platform log
 INFO: --> POST https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 http/1.1 (-1-byte body)
 RUNNING copy25Image
-Jun 05, 2018 12:21:37 PM okhttp3.internal.platform.Platform log
-INFO: <-- 200 OK https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 (515ms, unknown-length body)
-Jun 05, 2018 12:21:37 PM okhttp3.internal.platform.Platform log
-INFO: <-- 200 OK https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 (515ms, 868-byte body)
-Jun 05, 2018 12:21:37 PM okhttp3.internal.platform.Platform log
+Jun 05, 2018 7:27:07 PM okhttp3.internal.platform.Platform log
+INFO: <-- 200 OK https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 (452ms, unknown-length body)
+Jun 05, 2018 7:27:07 PM okhttp3.internal.platform.Platform log
+INFO: <-- 200 OK https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 (491ms, 517-byte body)
+Jun 05, 2018 7:27:07 PM okhttp3.internal.platform.Platform log
 INFO: --> POST https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 http/1.1 (-1-byte body)
-Jun 05, 2018 12:21:37 PM okhttp3.internal.platform.Platform log
+Jun 05, 2018 7:27:07 PM okhttp3.internal.platform.Platform log
 INFO: --> POST https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 http/1.1 (-1-byte body)
-Jun 05, 2018 12:21:37 PM okhttp3.internal.platform.Platform log
-INFO: <-- 200 OK https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 (506ms, 664-byte body)
-Jun 05, 2018 12:21:37 PM okhttp3.internal.platform.Platform log
-INFO: <-- 200 OK https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 (535ms, 516-byte body)
-Jun 05, 2018 12:21:37 PM okhttp3.internal.platform.Platform log
+Jun 05, 2018 7:27:08 PM okhttp3.internal.platform.Platform log
+INFO: <-- 200 OK https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 (443ms, unknown-length body)
+Jun 05, 2018 7:27:08 PM okhttp3.internal.platform.Platform log
+INFO: <-- 200 OK https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 (512ms, 953-byte body)
+Jun 05, 2018 7:27:08 PM okhttp3.internal.platform.Platform log
 INFO: --> POST https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 http/1.1 (-1-byte body)
-Jun 05, 2018 12:21:37 PM okhttp3.internal.platform.Platform log
-INFO: --> POST https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 http/1.1 (-1-byte body)
-RUNNING copy25Image
-Jun 05, 2018 12:21:38 PM okhttp3.internal.platform.Platform log
-INFO: <-- 200 OK https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 (491ms, 889-byte body)
-Jun 05, 2018 12:21:38 PM okhttp3.internal.platform.Platform log
-INFO: <-- 200 OK https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 (510ms, 801-byte body)
-Jun 05, 2018 12:21:38 PM okhttp3.internal.platform.Platform log
-INFO: --> POST https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 http/1.1 (-1-byte body)
-Jun 05, 2018 12:21:38 PM okhttp3.internal.platform.Platform log
-INFO: --> POST https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 http/1.1 (-1-byte body)
-Jun 05, 2018 12:21:38 PM okhttp3.internal.platform.Platform log
-INFO: <-- 200 OK https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 (488ms, 887-byte body)
-Jun 05, 2018 12:21:38 PM okhttp3.internal.platform.Platform log
-INFO: <-- 200 OK https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 (505ms, 888-byte body)
-Jun 05, 2018 12:21:38 PM okhttp3.internal.platform.Platform log
-INFO: --> POST https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 http/1.1 (-1-byte body)
-Jun 05, 2018 12:21:38 PM okhttp3.internal.platform.Platform log
+Jun 05, 2018 7:27:08 PM okhttp3.internal.platform.Platform log
 INFO: --> POST https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 http/1.1 (-1-byte body)
 RUNNING copy25Image
-Jun 05, 2018 12:21:39 PM okhttp3.internal.platform.Platform log
-INFO: <-- 200 OK https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 (502ms, unknown-length body)
-Jun 05, 2018 12:21:39 PM okhttp3.internal.platform.Platform log
-INFO: <-- 200 OK https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 (563ms, 671-byte body)
-Jun 05, 2018 12:21:39 PM okhttp3.internal.platform.Platform log
+Jun 05, 2018 7:27:08 PM okhttp3.internal.platform.Platform log
+INFO: <-- 200 OK https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 (508ms, 517-byte body)
+Jun 05, 2018 7:27:08 PM okhttp3.internal.platform.Platform log
+INFO: <-- 200 OK https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 (512ms, unknown-length body)
+Jun 05, 2018 7:27:08 PM okhttp3.internal.platform.Platform log
 INFO: --> POST https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 http/1.1 (-1-byte body)
-Jun 05, 2018 12:21:39 PM okhttp3.internal.platform.Platform log
+Jun 05, 2018 7:27:08 PM okhttp3.internal.platform.Platform log
 INFO: --> POST https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 http/1.1 (-1-byte body)
-Jun 05, 2018 12:21:39 PM okhttp3.internal.platform.Platform log
-INFO: <-- 200 OK https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 (566ms, 868-byte body)
-Jun 05, 2018 12:21:39 PM okhttp3.internal.platform.Platform log
-INFO: <-- 200 OK https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 (559ms, 889-byte body)
-Jun 05, 2018 12:21:39 PM okhttp3.internal.platform.Platform log
+Jun 05, 2018 7:27:09 PM okhttp3.internal.platform.Platform log
+INFO: <-- 200 OK https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 (449ms, 889-byte body)
+Jun 05, 2018 7:27:09 PM okhttp3.internal.platform.Platform log
+INFO: <-- 200 OK https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 (516ms, 889-byte body)
+Jun 05, 2018 7:27:09 PM okhttp3.internal.platform.Platform log
 INFO: --> POST https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 http/1.1 (-1-byte body)
-Jun 05, 2018 12:21:39 PM okhttp3.internal.platform.Platform log
-INFO: --> POST https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 http/1.1 (-1-byte body)
-RUNNING copy25Image
-Jun 05, 2018 12:21:40 PM okhttp3.internal.platform.Platform log
-INFO: <-- 200 OK https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 (467ms, unknown-length body)
-Jun 05, 2018 12:21:40 PM okhttp3.internal.platform.Platform log
-INFO: <-- 200 OK https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 (550ms, unknown-length body)
-Jun 05, 2018 12:21:40 PM okhttp3.internal.platform.Platform log
-INFO: --> POST https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 http/1.1 (-1-byte body)
-Jun 05, 2018 12:21:40 PM okhttp3.internal.platform.Platform log
-INFO: --> POST https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 http/1.1 (-1-byte body)
-Jun 05, 2018 12:21:41 PM okhttp3.internal.platform.Platform log
-RUNNING copy25Image
-2018.06.05 12:21:41 EDT pool-3-thread-1 ERROR Consumer 66 run - java.lang.IllegalArgumentException: bound must be greater than origin
-INFO: <-- 200 OK https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 (542ms, unknown-length body)
-Jun 05, 2018 12:21:41 PM okhttp3.internal.platform.Platform log
-INFO: <-- 200 OK https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 (542ms, unknown-length body)
-2018.06.05 12:21:41 EDT pool-3-thread-1 ERROR Consumer 67 run - IndexOutOfBoundsException, Use the end index of this divided part
-2018.06.05 12:21:41 EDT pool-3-thread-1 ERROR Consumer 66 run - java.lang.IllegalArgumentException: bound must be greater than origin
-2018.06.05 12:21:41 EDT pool-3-thread-1 ERROR Consumer 67 run - IndexOutOfBoundsException, Use the end index of this divided part
-Jun 05, 2018 12:21:41 PM okhttp3.internal.platform.Platform log
-INFO: --> POST https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 http/1.1 (-1-byte body)
-Jun 05, 2018 12:21:41 PM okhttp3.internal.platform.Platform log
-INFO: --> POST https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 http/1.1 (-1-byte body)
-Jun 05, 2018 12:21:41 PM okhttp3.internal.platform.Platform log
-INFO: <-- 200 OK https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 (511ms, 889-byte body)
-Jun 05, 2018 12:21:41 PM okhttp3.internal.platform.Platform log
-INFO: <-- 200 OK https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 (561ms, 889-byte body)
-Jun 05, 2018 12:21:41 PM okhttp3.internal.platform.Platform log
-INFO: --> POST https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 http/1.1 (-1-byte body)
-Jun 05, 2018 12:21:41 PM okhttp3.internal.platform.Platform log
+Jun 05, 2018 7:27:09 PM okhttp3.internal.platform.Platform log
 INFO: --> POST https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 http/1.1 (-1-byte body)
 RUNNING copy25Image
-Jun 05, 2018 12:21:42 PM okhttp3.internal.platform.Platform log
-INFO: <-- 200 OK https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 (576ms, unknown-length body)
-Jun 05, 2018 12:21:42 PM okhttp3.internal.platform.Platform log
-INFO: <-- 200 OK https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 (576ms, 517-byte body)
-Jun 05, 2018 12:21:42 PM okhttp3.internal.platform.Platform log
+Jun 05, 2018 7:27:09 PM okhttp3.internal.platform.Platform log
+INFO: <-- 200 OK https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 (472ms, unknown-length body)
+Jun 05, 2018 7:27:10 PM okhttp3.internal.platform.Platform log
+INFO: <-- 200 OK https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 (631ms, 656-byte body)
+Jun 05, 2018 7:27:10 PM okhttp3.internal.platform.Platform log
 INFO: --> POST https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 http/1.1 (-1-byte body)
-Jun 05, 2018 12:21:42 PM okhttp3.internal.platform.Platform log
+Jun 05, 2018 7:27:10 PM okhttp3.internal.platform.Platform log
 INFO: --> POST https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 http/1.1 (-1-byte body)
-Jun 05, 2018 12:21:42 PM okhttp3.internal.platform.Platform log
-INFO: <-- 200 OK https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 (610ms, unknown-length body)
-Jun 05, 2018 12:21:42 PM okhttp3.internal.platform.Platform log
-INFO: <-- 200 OK https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 (627ms, 889-byte body)
-Jun 05, 2018 12:21:42 PM okhttp3.internal.platform.Platform log
+Jun 05, 2018 7:27:10 PM okhttp3.internal.platform.Platform log
+INFO: <-- 200 OK https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 (464ms, unknown-length body)
+Jun 05, 2018 7:27:10 PM okhttp3.internal.platform.Platform log
+INFO: <-- 200 OK https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 (505ms, unknown-length body)
+Jun 05, 2018 7:27:10 PM okhttp3.internal.platform.Platform log
 INFO: --> POST https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 http/1.1 (-1-byte body)
-Jun 05, 2018 12:21:42 PM okhttp3.internal.platform.Platform log
+Jun 05, 2018 7:27:10 PM okhttp3.internal.platform.Platform log
 INFO: --> POST https://gateway-a.watsonplatform.net/visual-recognition/api/v3/classify?version=2018-03-19&api_key=40f51d5e0d313b46835129e22896edab51fbf374 http/1.1 (-1-byte body)
 
 java.util.concurrent.TimeoutException: Test timed out while waiting for an expected result

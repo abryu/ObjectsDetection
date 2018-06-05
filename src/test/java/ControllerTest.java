@@ -3,7 +3,7 @@ import org.junit.Test;
 
 public class ControllerTest {
 
-    private final static int SECOND_TO_RUN = 15;
+    private final static int SECOND_TO_RUN = 10;
 
     @Test
     public void testController() throws Throwable {

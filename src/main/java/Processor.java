@@ -73,7 +73,7 @@ public class Processor implements Runnable {
     }
 
     private void deleteImage(String imageFileName) {
-        logger.debug("Deleting " + imageFileName);
+        logger.info("Deleting " + imageFileName);
         File f = new File(imageFileName);
         f.delete();
     }

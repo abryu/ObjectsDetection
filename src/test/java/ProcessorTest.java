@@ -18,7 +18,7 @@ public class ProcessorTest {
         final Waiter waiter = new Waiter();
 
         new Thread(() -> {
-            new Processor("Sample\\test00059.jpg", service, conf).run();
+            new Processor("Sample\\test00104.jpg", service, conf).run();
         }).start();
 
         waiter.await(SECOND_TO_RUN * 1000);

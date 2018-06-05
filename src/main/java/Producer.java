@@ -12,11 +12,14 @@ public class Producer implements Runnable {
     private Path path;
     private List<String> imagesList;
 
+    private String deliminator;
+
     static Logger logger = LogManager.getLogger(LogManager.ROOT_LOGGER_NAME);
 
     public Producer(List<String> imagesList) {
         this.config = Helper.getConfigProperties();
         this.imagesList = imagesList;
+        this.deliminator = setDeliminator();
         this.path = Paths.get(config.get("TARGET_IMAGE_DIR"));
     }
 
@@ -31,7 +34,7 @@ public class Producer implements Runnable {
             Files.newDirectoryStream(this.path)
                     .forEach(image -> {
                         String fileName = image.toString();
-                        logger.debug("Loading Existing File " + fileName);
+                        logger.info("Loading Existing File " + fileName);
                         if (checkValidFile(fileName))
                             imagesList.add(formatImageFilePath(fileName));
                     });
@@ -55,7 +58,7 @@ public class Producer implements Runnable {
 
                     Object c = e.context();
 
-                    logger.debug(String.format("Putting New %s %d %s\n", e.kind(), e.count(), c));
+                    logger.info(String.format("Putting New %s %d %s\n", e.kind(), e.count(), c));
 
                     String fileName = c.toString();
                     if (checkValidFile(fileName))
@@ -73,11 +76,20 @@ public class Producer implements Runnable {
 
     }
 
+    public String setDeliminator() {
+        if (System.getProperty("os.name").startsWith("Windows"))
+            return Constants.WINDOWS_DELI;
+        else
+            return Constants.LINUX_DELI;
+    }
+
+
     public String formatImageFilePath(String filepath) {
         if (filepath.contains(config.get("TARGET_IMAGE_DIR")))
             return filepath;
         else {
-            return (config.get("TARGET_IMAGE_DIR") + "\\" + filepath);
+
+            return (config.get("TARGET_IMAGE_DIR") + deliminator + filepath);
         }
     }
 

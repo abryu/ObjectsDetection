@@ -1,10 +1,10 @@
 ### Instructions
-#### 1. On Pi side, follow the instructions from this resource [Start Video Streaming on Pi](https://raspberrypi.stackexchange.com/questions/23182/how-to-stream-video-from-raspberry-pi-camera-and-watch-it-live/23205#23205)
-#### 2. Install VLC on your server. Open Terminal, navigate to the VLC directory.
-#### 3. Run the command below to receive coming streaming video and split into frames (--scene-ratio sets to 1 is the maximum, approximately 25 f/sec if it is Pi Camera).
+ + On Pi side, follow the instructions from this resource [Start Video Streaming on Pi](https://raspberrypi.stackexchange.com/questions/23182/how-to-stream-video-from-raspberry-pi-camera-and-watch-it-live/23205#23205)
+ + Install VLC on your server. Open Terminal, navigate to the VLC directory.
+ + Run the command below to receive coming streaming video and split into frames (--scene-ratio sets to 1 is the maximum, approximately 25 f/sec if it is Pi Camera).
 vlc.exe rtsp://IP-ADDRESS:8554/ --video-filter scene --scene-format jpg --scene-prefix test --scene-path C:\Users\wenbo\Desktop\frame --no-scene-replace --scene-ratio 1
-#### 4. Configure config/config.properties
-#### 5. Start Java main.
+ + Configure config/config.properties
+ + Start Java main.
 
 ### Program Logic:
 

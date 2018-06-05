@@ -1,4 +1,0 @@
-2018.06.05 12:21:41 EDT ERROR Consumer 66 run - java.lang.IllegalArgumentException: bound must be greater than origin
-2018.06.05 12:21:41 EDT ERROR Consumer 67 run - IndexOutOfBoundsException, Use the end index of this divided part
-2018.06.05 12:21:41 EDT ERROR Consumer 66 run - java.lang.IllegalArgumentException: bound must be greater than origin
-2018.06.05 12:21:41 EDT ERROR Consumer 67 run - IndexOutOfBoundsException, Use the end index of this divided part
