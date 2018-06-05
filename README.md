@@ -8,9 +8,9 @@ vlc.exe rtsp://IP-ADDRESS:8554/ --video-filter scene --scene-format jpg --scene-
 
 ### Program Logic:
 
-1. Main.java creates Controller and runs it.
+1. Main.java creates and runs Controller.java.
 
-2. Controller.java creates a synchronizedList which for holding the names of generated images from Instruction 3.
+2. Controller.java creates a synchronizedList which for holding the names of generated images from Instruction 3;
 and starts a Producer thread and Consumer thread.
 
 3. Producer.java loads the existing files in TARGET_IMAGE_DIR and put them into the synchronizedList.
@@ -21,12 +21,12 @@ and starts a Producer thread and Consumer thread.
 
 6. Once all threads are available, Consumer.java checks the synchronizedList size, divides the size into 
 
-   N (N=Number_Of_Threads)parts. It generates a random number based on the index of the current part.
+   N (N=Number_Of_Threads)parts. Inside the FOR loop, tt generates a random number based on the index of the current part.
    
-   Then runs a thread of Processor.java with the file name get from the synchronizedList's random index.
+   Then runs a thread of Processor.java with the file name from the synchronizedList's random number of index.
    
-   Then it clears the synchronizedList and removes all image files based on the synchronizedList values.
+   Then it clears the synchronizedList and removes all image files based on the synchronizedList's elements.
    
 7. Processor.java calls Watson Visual Recognition service to classify images, and parses the response.
 
-8. The response could be formated to print out Classifiers only. Later could be integrated with Notification services (e.g. Twillio).
+8. The response could be formatted to print out Classifiers only. Later could be integrated with Notification services (e.g. Twillio).
