@@ -15,7 +15,7 @@ and starts a Producer thread and Consumer thread.
 
 3. Producer.java loads the existing files in TARGET_IMAGE_DIR and put them into the synchronizedList.
 
-4. Producer.java watches TARGET_IMAGE_DIR; If a new image generated, it put the image names into the synchronizedList.
+4. Producer.java watches TARGET_IMAGE_DIR; If a new image generated, it put the image name into the synchronizedList.
 
 5. Consumer.java creates and starts a FixedSizeThreadPool based on the number of threads configured in config.properties.
 
