@@ -7,9 +7,11 @@ import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.InputStream;
+import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;
 
+import com.ibm.watson.developer_cloud.visual_recognition.v3.model.ClassifyOptions;
 import objectsdetection.helpers.Constants;
 
 import objectsdetection.helpers.Helper;
@@ -28,8 +30,9 @@ public class WatsonProcessor implements Runnable, I_Processor {
 
   /**
    * Use IBM Cloud Watson Service to detect objects.
+   *
    * @param fileName file path for the image that will be classifying
-   * @param service Watson Server that has been setApiKey
+   * @param service  Watson Server that has been setApiKey
    */
   public WatsonProcessor(String fileName, VisualRecognition service) {
     this.fileName = fileName;
@@ -52,6 +55,7 @@ public class WatsonProcessor implements Runnable, I_Processor {
 
     InputStream input = (InputStream) inputDataType;
 
+
     logger.info(String.format(
             "Faking : Classifying %s on Thread %s \n", fileName.toString(), Thread.currentThread().getName()));
 
@@ -61,17 +65,16 @@ public class WatsonProcessor implements Runnable, I_Processor {
       e.printStackTrace();
     }
 
-    /*
-      ClassifyOptions classifyOptions = new ClassifyOptions.Builder()
-              .imagesFile(input).imagesFilename(fileName.toString())
-              .threshold(Float.parseFloat(configProp.get("THRESHOLD")))
-              .owners(Arrays.asList(configProp.get("OWNER")))
-              .build();
-      ClassifiedImages result = service.classify(classifyOptions).execute();
+     /*
+    ClassifyOptions classifyOptions = new ClassifyOptions.Builder()
+            .imagesFile(input).imagesFilename(fileName.toString())
+            .threshold(Float.parseFloat(configProp.get("THRESHOLD")))
+            .owners(Arrays.asList(configProp.get("OWNER")))
+            .build();
+    ClassifiedImages result = service.classify(classifyOptions).execute();
 
-      parseResult(result);
-    */
-
+    parseResult(result);
+  */
     try {
       input.close();
     } catch (IOException e) {
@@ -92,17 +95,17 @@ public class WatsonProcessor implements Runnable, I_Processor {
 
     resultToParse.getImages().forEach(classifiedImage -> {
 
-      classifiedImage.getClassifiers().forEach(classifier -> {
+              classifiedImage.getClassifiers().forEach(classifier -> {
 
-        logger.info(classifier.getClasses());
+                logger.info(classifier.getClasses());
 
-        for (I_Notification i : notification) {
+                for (I_Notification i : notification) {
 
-          i.notifyUsers(classifier.getClasses().toString());
+                  i.notifyUsers(classifier.getClasses().toString());
 
-        }
-      });
-    }
+                }
+              });
+            }
     );
 
     logger.info("----------------------------------------------");

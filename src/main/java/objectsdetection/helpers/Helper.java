@@ -20,6 +20,7 @@ public class Helper {
 
   /**
    * Parse the config.properties to a HashMap
+   *
    * @return a HashMap of config.properties
    */
   public static HashMap<String, String> getConfigProperties() {
@@ -41,6 +42,7 @@ public class Helper {
 
   /**
    * Check the OS is Windows or not.
+   *
    * @return true for Windows; false for non-Windows
    */
   public static boolean isWindows() {
@@ -53,6 +55,7 @@ public class Helper {
 
   /**
    * Get deliminator based on the OS.
+   *
    * @return double backslash for windows; forward slash for non-windows.
    */
   public static String getDeliminator() {
@@ -65,6 +68,7 @@ public class Helper {
 
   /**
    * Check the config.properties and init the notification systems that user selected.
+   *
    * @return an ArrayList of initiated user selected notification systems
    */
   public static ArrayList<I_Notification> getNotificationServices() {
@@ -91,6 +95,7 @@ public class Helper {
 
   /**
    * Delete image.
+   *
    * @param imageFilePath file path to the image that will be deleting
    */
   public static void deleteImage(String imageFilePath) {
@@ -99,7 +104,7 @@ public class Helper {
     try {
       Files.delete(p);
     } catch (IOException e) {
-      e.printStackTrace();
+      logger.error("Helper Deleting " + e);
     }
     /*
     logger.info("Helper Deleting " + imageFilePath);

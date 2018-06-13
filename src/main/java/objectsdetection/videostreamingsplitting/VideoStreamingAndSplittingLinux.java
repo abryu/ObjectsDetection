@@ -22,12 +22,12 @@ public class VideoStreamingAndSplittingLinux implements Runnable, I_VideoStreami
     HashMap<String, String> config = Helper.getConfigProperties();
     StringBuilder sb = new StringBuilder();
 
-    String vlcHomePath = config.get("VLC_HOME_DIR");
+    String vlcHomePath = config.get("LOCAL_VLC_HOME_DIR");
     String ipAddress = config.get("PI_IP_ADDRESS");
     String destinationPath = config.get("TARGET_IMAGE_DIR");
 
-    sb.append("cd /usr/bin;")
-            .append("cvlc rtsp://")
+    sb.append(vlcHomePath)
+            .append("/cvlc rtsp://")
             .append(ipAddress)
             .append(":" + Constants.STREAMING_PORT + "/ --video-filter scene --scene-format ")
             .append(Constants.IMAGE_EXTENSION)

@@ -7,7 +7,7 @@ import org.junit.Test;
 
 public class ControllerTest {
 
-    private final static int SECOND_TO_RUN = 60;
+    private final static int SECOND_TO_RUN = 20;
 
     @BeforeClass
     public static void removeExistingFiles() {

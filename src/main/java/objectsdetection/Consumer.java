@@ -41,6 +41,7 @@ public class Consumer implements Runnable {
    * 5. Submit a thread task (run a processor thread) for each part with the random number index.
    * 6. Clear the sync list.
    * 7. Remove the processed images.
+   *
    * @param imagesList shared sync list
    */
   public Consumer(List<String> imagesList) {
@@ -83,16 +84,20 @@ public class Consumer implements Runnable {
             int startIndex = initSize;
             int endIndex = initSize + sizeOfDividedPart;
             int randomIndex;
+
             String filePathToProcess;
+
             try {
               randomIndex = ThreadLocalRandom.current().nextInt(startIndex, endIndex);
               filePathToProcess = imagesList.get(randomIndex);
             } catch (IndexOutOfBoundsException | IllegalArgumentException e) {
-              logger.info(e.toString());
+              logger.error(e);
               logger.info("Exception: Use the end index of this divided part");
               randomIndex = endIndex;
               filePathToProcess = imagesList.get(randomIndex);
             }
+
+            imagesList.set(randomIndex, null);
 
             logger.info(String.format("StartIndex %d, EndIndex %d, RandomIndex %d (File Name %s), ListSize %d, eachPart %d %n",
                     startIndex, endIndex, randomIndex, filePathToProcess, numOfImagesToProcess, sizeOfDividedPart));
@@ -115,10 +120,15 @@ public class Consumer implements Runnable {
 
           @Override
           public void run() {
-            imagesToClean.forEach(this::deleteImage);
+            for (String image : imagesToClean) {
+              if (image != null) {
+                deleteImage(image);
+              }
+            }
           }
 
           private void deleteImage(String imageFileName) {
+
             //logger.info("Deleting " + imageFileName + " " + new File(imageFileName).delete());
 
             logger.info("Consumer Deleting " + imageFileName);
@@ -126,7 +136,7 @@ public class Consumer implements Runnable {
             try {
               Files.delete(p);
             } catch (IOException e) {
-              logger.info(e.getMessage());
+              logger.error("Consumer Deleting" + e);
             }
           }
 

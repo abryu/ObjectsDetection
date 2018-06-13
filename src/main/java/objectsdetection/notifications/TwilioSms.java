@@ -1,6 +1,7 @@
 package objectsdetection.notifications;
 
 import com.twilio.Twilio;
+import com.twilio.rest.api.v2010.account.Message;
 import com.twilio.type.PhoneNumber;
 import objectsdetection.helpers.Helper;
 import org.apache.logging.log4j.LogManager;
@@ -29,17 +30,14 @@ public class TwilioSms implements I_Notification {
   @Override
   public void notifyUsers(String messageInput) {
 
-    //PhoneNumber from = new PhoneNumber(fromPhoneNumber);
+    PhoneNumber from = new PhoneNumber(fromPhoneNumber);
 
     for (String user : users) {
-      /*
-      Message message = Message.creator(new PhoneNumber(user),from,messageInput).create();
+      //Message message = Message.creator(new PhoneNumber(user),from,messageInput).create();
 
-      logger.debug(message.getSid() + " " + message.getStatus().toString());
+      //logger.info(message.getSid() + " " + message.getStatus().toString());
 
-      */
-
-      logger.info("Fake Message : Sent to " + user + " ; Message Body " + messageInput);
+      logger.info("Fake Message : Sent to " + user + " ; Message Body Fake Message");
 
     }
 
