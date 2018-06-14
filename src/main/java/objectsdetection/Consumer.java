@@ -97,8 +97,6 @@ public class Consumer implements Runnable {
               filePathToProcess = imagesList.get(randomIndex);
             }
 
-            imagesList.set(randomIndex, null);
-
             logger.debug(String.format("StartIndex %d, EndIndex %d, RandomIndex %d (File Name %s), ListSize %d, eachPart %d %n",
                     startIndex, endIndex, randomIndex, filePathToProcess, numOfImagesToProcess, sizeOfDividedPart));
 
@@ -106,6 +104,8 @@ public class Consumer implements Runnable {
             threadStatus.add(f);
 
             initSize = endIndex;
+
+            imagesList.set(randomIndex, null);
 
           }
         }

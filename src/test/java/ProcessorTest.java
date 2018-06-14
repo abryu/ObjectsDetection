@@ -20,7 +20,7 @@ public class ProcessorTest {
         final Waiter waiter = new Waiter();
 
         new Thread(() -> {
-            new WatsonProcessor("Sample\\test00104.jpg", service).run();
+            new WatsonProcessor("Sample\\t00028.jpg", service).run();
         }).start();
 
         waiter.await(SECOND_TO_RUN * 1000);

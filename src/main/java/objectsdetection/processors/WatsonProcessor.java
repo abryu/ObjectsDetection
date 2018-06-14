@@ -55,7 +55,6 @@ public class WatsonProcessor implements Runnable, I_Processor {
 
     InputStream input = (InputStream) inputDataType;
 
- /*
     logger.info(String.format(
             "Faking : Classifying %s on Thread %s \n", fileName.toString(), Thread.currentThread().getName()));
 
@@ -65,7 +64,10 @@ public class WatsonProcessor implements Runnable, I_Processor {
       e.printStackTrace();
     }
 
- */
+
+ /*
+    logger.info(String.format("Classifying %s on Thread %s \n", fileName.toString(), Thread.currentThread().getName()));
+
     ClassifyOptions classifyOptions = new ClassifyOptions.Builder()
             .imagesFile(input).imagesFilename(fileName.toString())
             .threshold(Float.parseFloat(configProp.get("THRESHOLD")))
@@ -73,8 +75,8 @@ public class WatsonProcessor implements Runnable, I_Processor {
             .build();
     ClassifiedImages result = service.classify(classifyOptions).execute();
 
-
     parseResult(result);
+*/
 
     try {
       input.close();

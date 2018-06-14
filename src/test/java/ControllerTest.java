@@ -20,7 +20,6 @@ public class ControllerTest {
 
         final Waiter waiter = new Waiter();
 
-        /*
         new Thread(() -> {
             while (true) {
                 try {
@@ -32,7 +31,6 @@ public class ControllerTest {
             }
 
         }).start();
-        */
 
         new Thread(() -> {
             new Controller().run();

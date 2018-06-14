@@ -1,2 +1,0 @@
-2018.06.14 00:30:07 EDT ERROR objectsdetection.Controller 113 runVideoStreamingOnPi - com.jcraft.jsch.JSchException: java.net.ConnectException: Connection timed out: connect
-2018.06.14 00:30:07 EDT ERROR objectsdetection.Controller 46 run - Pi Video Streaming Cannot be started; Quit
