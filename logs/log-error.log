@@ -1,0 +1,2 @@
+2018.06.13 22:19:57 EDT ERROR objectsdetection.Controller 113 runVideoStreamingOnPi - com.jcraft.jsch.JSchException: java.net.ConnectException: Connection refused: connect
+2018.06.13 22:19:57 EDT ERROR objectsdetection.Controller 46 run - Pi Video Streaming Cannot be started; Quit

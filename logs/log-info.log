@@ -772,3 +772,4 @@
 
 2018.06.13 21:23:01 EDT INFO  objectsdetection.Producer 87 watchAndLoadImageDirectory - Putting New ENTRY_CREATE 1 t00261.jpg 
 
+2018.06.13 22:19:56 EDT INFO  objectsdetection.Controller 101 runVideoStreamingOnPi - Check Pi to see if Video is Streaming
