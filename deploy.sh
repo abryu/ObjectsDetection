@@ -7,7 +7,7 @@ IMAGE_DIR=$HOME_DIR/images
 JAVA_BIN=/home/turtle/arduino-1.8.3/java/bin/java
 
 GITHUB_USERNAME=abryu
-GITHUB_REPO=objectsDetection
+GITHUB_REPO=ObjectsDetection
 
 # Remove Existing Images, Jar, and Logs
 
