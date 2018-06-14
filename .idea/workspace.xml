@@ -54,7 +54,7 @@
         <entry file="file://$PROJECT_DIR$/.travis.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="462">
-              <caret line="14" column="36" lean-forward="false" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -231,29 +231,6 @@
             <path>
               <item name="objectsdetection" type="b2602c69:ProjectViewProjectNode" />
               <item name="objectsdetection" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="objectsdetection" type="b2602c69:ProjectViewProjectNode" />
-              <item name="objectsdetection" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="objectsdetection" type="b2602c69:ProjectViewProjectNode" />
-              <item name="objectsdetection" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="objectsdetection" type="b2602c69:ProjectViewProjectNode" />
-              <item name="objectsdetection" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="objectsdetection" type="b2602c69:ProjectViewProjectNode" />
-              <item name="objectsdetection" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -540,7 +517,7 @@
       <workItem from="1528935660264" duration="13152000" />
       <workItem from="1528991284577" duration="3702000" />
       <workItem from="1528995135838" duration="272000" />
-      <workItem from="1528995460003" duration="6418000" />
+      <workItem from="1528995460003" duration="6677000" />
     </task>
     <servers />
   </component>
@@ -577,7 +554,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="167765000" />
+    <option name="totallyTimeSpent" value="168024000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-13" y="-13" width="2762" height="1770" extended-state="6" />
@@ -987,7 +964,7 @@
     <entry file="file://$PROJECT_DIR$/.travis.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
-          <caret line="14" column="36" lean-forward="false" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
         </state>
       </provider>

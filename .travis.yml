@@ -11,7 +11,6 @@ before_deploy:
   - pwd
   - ls -altr
   - ls target
-  - cp $TRAVIS_BUILD_DIR/build/libs/*-SNAPSHOT.jar objectsdetection-1.0-SNAPSHOT.jar
   - cp target/*.jar objectsdetection-1.0-SNAPSHOT.jar
 
 deploy:
