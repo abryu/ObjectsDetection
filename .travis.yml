@@ -5,6 +5,9 @@ jdk:
 
 install: mvn install
 
+script:
+- echo "skipping tests"
+
 deploy:
   provider: script
   script: "mvn clean package -DskipTests=true"
