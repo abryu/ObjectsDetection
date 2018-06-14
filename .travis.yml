@@ -21,4 +21,4 @@ addons:
 
 after_success:
     - export SSHPASS=$DEPLOY_PASS
-    - sshpass -o stricthostkeychecking=no -e scp target/objectsdetection-1.0-SNAPSHOT.jar $DEPLOY_USER@$DEPLOY_HOST:$DEPLOY_PATH
+    - sshpass -e scp -o stricthostkeychecking=no target/objectsdetection-1.0-SNAPSHOT.jar $DEPLOY_USER@$DEPLOY_HOST:$DEPLOY_PATH
