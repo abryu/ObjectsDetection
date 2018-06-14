@@ -3,6 +3,8 @@ language: java
 jdk:
   - openjdk8
 
+install: mvn install
+
 deploy:
   provider: script
   script: "mvn clean package -DskipTests=true"
