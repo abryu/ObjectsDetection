@@ -33,11 +33,12 @@ public class TwilioSms implements I_Notification {
     PhoneNumber from = new PhoneNumber(fromPhoneNumber);
 
     for (String user : users) {
-      //Message message = Message.creator(new PhoneNumber(user),from,messageInput).create();
 
-      //logger.info(message.getSid() + " " + message.getStatus().toString());
+      Message message = Message.creator(new PhoneNumber(user),from,messageInput).create();
 
-      logger.info("Fake Message : Sent to " + user + " ; Message Body Fake Message");
+      logger.info(message.getSid() + " " + message.getStatus().toString());
+
+      //logger.info("Fake Message : Sent to " + user + " ; Message Body Fake Message");
 
     }
 
