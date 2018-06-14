@@ -55,6 +55,7 @@ public class WatsonProcessor implements Runnable, I_Processor {
 
     InputStream input = (InputStream) inputDataType;
 
+    /*
     logger.info(String.format(
             "Faking : Classifying %s on Thread %s \n", fileName.toString(), Thread.currentThread().getName()));
 
@@ -63,9 +64,8 @@ public class WatsonProcessor implements Runnable, I_Processor {
     } catch (InterruptedException e) {
       e.printStackTrace();
     }
+*/
 
-
- /*
     logger.info(String.format("Classifying %s on Thread %s \n", fileName.toString(), Thread.currentThread().getName()));
 
     ClassifyOptions classifyOptions = new ClassifyOptions.Builder()
@@ -76,7 +76,7 @@ public class WatsonProcessor implements Runnable, I_Processor {
     ClassifiedImages result = service.classify(classifyOptions).execute();
 
     parseResult(result);
-*/
+
 
     try {
       input.close();

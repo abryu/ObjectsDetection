@@ -7,75 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e89a8e41-6661-4178-9e7a-b1a121aa3d2b" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/logs/l.log" afterPath="$PROJECT_DIR$/deploy.sh" />
-      <change beforePath="$PROJECT_DIR$/logs/log-debug.log" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/logs/log-error.log" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/logs/log-info.log" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/log4j2.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/objectsdetection/Consumer$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/objectsdetection/Consumer.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/objectsdetection/Controller.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/objectsdetection/Main.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/objectsdetection/Producer.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/objectsdetection/helpers/Constants.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/objectsdetection/helpers/Helper.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/objectsdetection/notifications/AwsSns.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/objectsdetection/notifications/I_Notification.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/objectsdetection/notifications/TwilioSms.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/objectsdetection/processors/I_Processor.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/objectsdetection/processors/LocalTensorflowProcessor.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/objectsdetection/processors/WatsonProcessor.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/objectsdetection/videostreamingsplitting/I_VideoStreamingAndSplitting.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/objectsdetection/videostreamingsplitting/VideoStreamingAndSplittingLinux.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/objectsdetection/videostreamingsplitting/VideoStreamingAndSplittingWindows.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/lib/activation-1.1.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/lib/assistant-5.5.0.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/lib/commons-codec-1.9.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/lib/commons-io-1.3.2.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/lib/commons-lang3-3.5.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/lib/commons-logging-1.2.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/lib/concurrentunit-0.4.2.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/lib/conversation-5.5.0.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/lib/core-5.5.0.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/lib/discovery-5.5.0.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/lib/gson-2.8.0.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/lib/guava-18.0.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/lib/hamcrest-core-1.3.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/lib/httpclient-4.5.2.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/lib/httpcore-4.4.4.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/lib/jackson-annotations-2.8.7.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/lib/jackson-core-2.8.7.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/lib/jackson-databind-2.8.7.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/lib/java-sdk-5.5.0.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/lib/jaxb-api-2.2.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/lib/jersey-jsr166e-2.25.1.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/lib/jjwt-0.4.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/lib/joda-time-2.5.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/lib/jsch-0.1.54.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/lib/junit-4.12.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/lib/language-translator-5.5.0.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/lib/log4j-api-2.11.0.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/lib/log4j-core-2.11.0.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/lib/logging-interceptor-3.8.0.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/lib/mockito-all-1.9.5.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/lib/natural-language-classifier-5.5.0.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/lib/natural-language-understanding-5.5.0.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/lib/okhttp-3.8.0.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/lib/okhttp-urlconnection-3.8.0.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/lib/okio-1.13.0.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/lib/personality-insights-5.5.0.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/lib/slf4j-api-1.7.6.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/lib/speech-to-text-5.5.0.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/lib/stax-api-1.0-2.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/lib/text-to-speech-5.5.0.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/lib/tone-analyzer-5.5.0.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/lib/twilio-7.17.0.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/lib/visual-recognition-5.5.0.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/objectsdetection-1.0-SNAPSHOT.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/objectsdetection/processors/WatsonProcessor.java" afterPath="$PROJECT_DIR$/src/main/java/objectsdetection/processors/WatsonProcessor.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -97,7 +29,18 @@
     <favorites_list name="objectsdetection" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="600" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
+      <file leaf-file-name="WatsonProcessor.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/objectsdetection/processors/WatsonProcessor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1259">
+              <caret line="100" column="21" lean-forward="false" selection-start-line="100" selection-start-column="21" selection-end-line="100" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -219,10 +162,10 @@
         <option value="$PROJECT_DIR$/src/test/java/ControllerTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/ProcessorTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/objectsdetection/Consumer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/objectsdetection/processors/WatsonProcessor.java" />
         <option value="$PROJECT_DIR$/src/main/java/objectsdetection/notifications/TwilioSms.java" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/deploy.sh" />
+        <option value="$PROJECT_DIR$/src/main/java/objectsdetection/processors/WatsonProcessor.java" />
       </list>
     </option>
   </component>
@@ -268,6 +211,40 @@
             <path>
               <item name="objectsdetection" type="b2602c69:ProjectViewProjectNode" />
               <item name="objectsdetection" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="objectsdetection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="objectsdetection" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="objectsdetection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="objectsdetection" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="objectsdetection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="objectsdetection" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="objectsdetection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="objectsdetection" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="objectsdetection" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="objectsdetection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="objectsdetection" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="processors" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -554,7 +531,7 @@
       <workItem from="1528935660264" duration="13152000" />
       <workItem from="1528991284577" duration="3702000" />
       <workItem from="1528995135838" duration="272000" />
-      <workItem from="1528995460003" duration="4671000" />
+      <workItem from="1528995460003" duration="5263000" />
     </task>
     <servers />
   </component>
@@ -591,10 +568,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="166018000" />
+    <option name="totallyTimeSpent" value="166610000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-13" y="-13" width="2762" height="1770" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -610,7 +588,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24934037" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26435044" sideWeight="0.75329816" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26435044" sideWeight="0.75329816" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -938,14 +916,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/objectsdetection/processors/WatsonProcessor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="797">
-          <caret line="76" column="0" lean-forward="false" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/objectsdetection/notifications/TwilioSms.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1127">
@@ -1001,6 +971,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="381">
           <caret line="20" column="36" lean-forward="false" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/objectsdetection/processors/WatsonProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1259">
+          <caret line="100" column="21" lean-forward="false" selection-start-line="100" selection-start-column="21" selection-end-line="100" selection-end-column="21" />
           <folding />
         </state>
       </provider>
