@@ -8,4 +8,4 @@ install: true
 script: mvn clean package -DskipTests=true
 
 after_success:
-    - ls -altr
+    - ls -altr ./target
