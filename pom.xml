@@ -64,6 +64,12 @@
             <version>7.17.0</version>
         </dependency>
 
+        <dependency>
+            <groupId>com.jcraft</groupId>
+            <artifactId>jsch</artifactId>
+            <version>0.1.54</version>
+        </dependency>
+
 
         <dependency>
             <groupId>org.apache.logging.log4j</groupId>

@@ -43,7 +43,7 @@ public class VideoStreamingAndSplittingWindows implements Runnable, I_VideoStrea
             .append(Constants.SPLITTING_RATION)
     ;
 
-    logger.info(sb);
+    logger.debug(sb);
     return sb.toString();
   }
 

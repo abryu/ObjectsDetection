@@ -1,5 +1,6 @@
 package objectsdetection;
 
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.HashMap;
@@ -7,6 +8,8 @@ import java.util.List;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
+import com.jcraft.jsch.JSchException;
+import objectsdetection.helpers.Constants;
 import objectsdetection.helpers.Helper;
 import objectsdetection.videostreamingsplitting.I_VideoStreamingAndSplitting;
 import objectsdetection.videostreamingsplitting.VideoStreamingAndSplittingLinux;
@@ -35,9 +38,15 @@ public class Controller {
    * Run threads of Video Streaming and Splitting, Producer, and Consumer.
    */
   public void run() {
-    createAndRunVideoStreaming();
-    createAndRunProducer();
-    createAndRunConsumer();
+    if (runVideoStreamingOnPi()) {
+      createAndRunVideoStreaming();
+      createAndRunProducer();
+      createAndRunConsumer();
+    } else {
+      logger.error("Pi Video Streaming Cannot be started; Quit");
+      System.exit(1);
+    }
+
   }
 
   /**
@@ -80,6 +89,31 @@ public class Controller {
     ExecutorService consumer = Executors.newSingleThreadExecutor();
     consumer.execute(new Consumer(imagesList));
     consumer.shutdown();
+  }
+
+  /**
+   * Check Pi to see if Video is Streaming.
+   * If true, do nothing.
+   * If false, start streaming
+   */
+  private boolean runVideoStreamingOnPi() {
+
+    logger.info("Check Pi to see if Video is Streaming");
+
+    try {
+      if (Helper.runSshCommandOnPi(Constants.VIDEO_STREAMING_CHECKING))
+        return true;
+      else {
+        logger.info("Pi is not video streaming; Trying to start.");
+        Helper.runSshCommandOnPi(Constants.KILL_VLC);
+        Helper.runSshCommandOnPi(Constants.KILL_RASPIVID);
+        return Helper.runSshCommandOnPi(Constants.VIDEO_STREAMING_STARTING);
+      }
+    } catch (JSchException | IOException e) {
+      logger.error(e);
+    }
+
+    return false;
   }
 
 

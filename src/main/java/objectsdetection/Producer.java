@@ -53,7 +53,7 @@ public class Producer implements Runnable {
       Files.newDirectoryStream(this.path)
               .forEach(image -> {
                 String fileName = image.toString();
-                logger.info("Loading Existing File " + fileName);
+                logger.debug("Loading Existing File " + fileName);
                 if (checkValidFile(fileName)) {
                   imagesList.add(formatImageFilePath(fileName));
                 }
@@ -84,7 +84,7 @@ public class Producer implements Runnable {
 
           String fileName = c.toString();
           if (checkValidFile(fileName)) {
-            logger.info(String.format("Putting New %s %d %s %n", e.kind(), e.count(), c));
+            logger.debug(String.format("Putting New %s %d %s %n", e.kind(), e.count(), c));
             imagesList.add(formatImageFilePath(fileName));
           }
 

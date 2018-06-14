@@ -2,6 +2,7 @@ package objectsdetection.helpers;
 
 import java.io.FileInputStream;
 import java.io.IOException;
+import java.io.InputStream;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
@@ -10,6 +11,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Properties;
 
+import com.jcraft.jsch.*;
 import objectsdetection.notifications.I_Notification;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
@@ -99,7 +101,7 @@ public class Helper {
    * @param imageFilePath file path to the image that will be deleting
    */
   public static void deleteImage(String imageFilePath) {
-    logger.info("Helper Deleting " + imageFilePath);
+    logger.debug("Helper Deleting " + imageFilePath);
     Path p = Paths.get(imageFilePath);
     try {
       Files.delete(p);
@@ -107,10 +109,62 @@ public class Helper {
       logger.error("Helper Deleting " + e);
     }
     /*
-    logger.info("Helper Deleting " + imageFilePath);
+    logger.debug("Helper Deleting " + imageFilePath);
     File f = new File(imageFilePath);
     f.delete();
     */
+  }
+
+  public static boolean runSshCommandOnPi(String command) throws JSchException, IOException {
+
+
+    HashMap<String, String> configMap = getConfigProperties();
+
+    String host = configMap.get("PI_IP_ADDRESS");
+    String user = configMap.get("PI_USERNAME");
+    String password = configMap.get("PI_PASSWORD");
+
+    logger.debug("Running " + command + " on host " + host);
+
+    java.util.Properties config = new java.util.Properties();
+    config.put("StrictHostKeyChecking", "no");
+    JSch jsch = new JSch();
+    Session session = jsch.getSession(user, host, 22);
+    session.setPassword(password);
+    session.setConfig(config);
+    session.connect();
+    logger.debug("Connected to " + host);
+
+    ChannelExec channel = (ChannelExec) session.openChannel("exec");
+    channel.setCommand(command);
+    channel.connect();
+
+    boolean success = false;
+    // get stdout
+    InputStream in = channel.getInputStream();
+    byte[] tmp = new byte[1024];
+    while (true) {
+      while (in.available() > 0) {
+        int i = in.read(tmp, 0, 1024);
+        if (i < 0)
+          break;
+        logger.debug(new String(tmp, 0, i));
+      }
+      success = channel.getExitStatus() == 0;
+      logger.debug("SSH Command Status " + success);
+      if (channel.isClosed()) {
+        break;
+      }
+      try {
+        Thread.sleep(1000);
+      } catch (Exception ee) {
+      }
+    }
+    channel.disconnect();
+    session.disconnect();
+
+    return success;
+
   }
 
 

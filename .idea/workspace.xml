@@ -7,17 +7,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e89a8e41-6661-4178-9e7a-b1a121aa3d2b" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/SyncListTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jcraft_jsch_0_1_54.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/SshCommandTest.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/config/config.properties" afterPath="$PROJECT_DIR$/config/config.properties" />
+      <change beforePath="$PROJECT_DIR$/objectsdetection.iml" afterPath="$PROJECT_DIR$/objectsdetection.iml" />
       <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
       <change beforePath="$PROJECT_DIR$/src/main/java/objectsdetection/Consumer.java" afterPath="$PROJECT_DIR$/src/main/java/objectsdetection/Consumer.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/objectsdetection/Controller.java" afterPath="$PROJECT_DIR$/src/main/java/objectsdetection/Controller.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/objectsdetection/Producer.java" afterPath="$PROJECT_DIR$/src/main/java/objectsdetection/Producer.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/objectsdetection/helpers/Constants.java" afterPath="$PROJECT_DIR$/src/main/java/objectsdetection/helpers/Constants.java" />
       <change beforePath="$PROJECT_DIR$/src/main/java/objectsdetection/helpers/Helper.java" afterPath="$PROJECT_DIR$/src/main/java/objectsdetection/helpers/Helper.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/objectsdetection/notifications/TwilioSms.java" afterPath="$PROJECT_DIR$/src/main/java/objectsdetection/notifications/TwilioSms.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/objectsdetection/processors/WatsonProcessor.java" afterPath="$PROJECT_DIR$/src/main/java/objectsdetection/processors/WatsonProcessor.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/objectsdetection/videostreamingsplitting/VideoStreamingAndSplittingLinux.java" afterPath="$PROJECT_DIR$/src/main/java/objectsdetection/videostreamingsplitting/VideoStreamingAndSplittingLinux.java" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ControllerTest.java" afterPath="$PROJECT_DIR$/src/test/java/ControllerTest.java" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestHelper.java" afterPath="$PROJECT_DIR$/src/test/java/TestHelper.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/objectsdetection/videostreamingsplitting/VideoStreamingAndSplittingWindows.java" afterPath="$PROJECT_DIR$/src/main/java/objectsdetection/videostreamingsplitting/VideoStreamingAndSplittingWindows.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -39,22 +40,12 @@
     <favorites_list name="objectsdetection" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Helper.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/objectsdetection/helpers/Helper.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
+      <file leaf-file-name="Controller.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/objectsdetection/Controller.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="385">
-              <caret line="103" column="9" lean-forward="false" selection-start-line="103" selection-start-column="9" selection-end-line="103" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="config.properties" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/config/config.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="99">
-              <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+            <state relative-caret-position="746">
+              <caret line="108" column="56" lean-forward="false" selection-start-line="108" selection-start-column="56" selection-end-line="108" selection-end-column="56" />
               <folding />
             </state>
           </provider>
@@ -75,7 +66,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>t01132</find>
       <find>t00176</find>
       <find>t02317</find>
       <find>t02412</find>
@@ -105,6 +95,7 @@
       <find>&quot;class&quot;:</find>
       <find>.debug</find>
       <find>logger.</find>
+      <find>.info</find>
     </findStrings>
     <replaceStrings>
       <replace>syncList</replace>
@@ -113,6 +104,7 @@
       <replace>loggeer.info</replace>
       <replace>logger.info</replace>
       <replace>.info</replace>
+      <replace>.debug</replace>
     </replaceStrings>
     <dirStrings>
       <dir>C:\Users\wenbo\Desktop\objectsdetection</dir>
@@ -134,7 +126,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/Cleaner.java" />
         <option value="$PROJECT_DIR$/src/test/java/MainTest.java" />
         <option value="$PROJECT_DIR$/src/main/resources/log4j2.xml" />
         <option value="$PROJECT_DIR$/README.md" />
@@ -166,25 +157,26 @@
         <option value="$PROJECT_DIR$/src/main/java/objectsdetection/videostreamingsplitting/WindowsRunner.java" />
         <option value="$PROJECT_DIR$/src/test/java/WindowsRunnerTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/objectsdetection/notifications/AwsSns.java" />
-        <option value="$PROJECT_DIR$/src/main/java/objectsdetection/helpers/Constants.java" />
         <option value="$PROJECT_DIR$/src/main/java/objectsdetection/notifications/I_Notification.java" />
         <option value="$PROJECT_DIR$/src/main/java/objectsdetection/processors/I_Processor.java" />
         <option value="$PROJECT_DIR$/src/main/java/objectsdetection/videostreamingsplitting/I_VideoStreamingAndSplitting.java" />
         <option value="$PROJECT_DIR$/src/main/java/objectsdetection/processors/LocalTensorflowProcessor.java" />
-        <option value="$PROJECT_DIR$/src/main/java/objectsdetection/Controller.java" />
         <option value="$PROJECT_DIR$/src/main/java/objectsdetection/videostreamingsplitting/VideoStreamingAndSplittingWindows.java" />
         <option value="$PROJECT_DIR$/src/main/java/objectsdetection/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/objectsdetection/Producer.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/ControllerTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/objectsdetection/notifications/TwilioSms.java" />
-        <option value="$PROJECT_DIR$/src/main/java/objectsdetection/processors/WatsonProcessor.java" />
         <option value="$PROJECT_DIR$/src/main/java/objectsdetection/videostreamingsplitting/VideoStreamingAndSplittingLinux.java" />
         <option value="$PROJECT_DIR$/src/test/java/TestHelper.java" />
-        <option value="$PROJECT_DIR$/src/main/java/objectsdetection/helpers/Helper.java" />
         <option value="$PROJECT_DIR$/src/test/java/SyncListTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/objectsdetection/Consumer.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/config/config.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/objectsdetection/helpers/Constants.java" />
+        <option value="$PROJECT_DIR$/src/test/java/SshCommandTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/objectsdetection/helpers/Helper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/objectsdetection/Consumer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/objectsdetection/notifications/TwilioSms.java" />
+        <option value="$PROJECT_DIR$/src/main/java/objectsdetection/processors/WatsonProcessor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/objectsdetection/Controller.java" />
       </list>
     </option>
   </component>
@@ -225,6 +217,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -275,6 +268,22 @@
               <item name="objectsdetection" type="b2602c69:ProjectViewProjectNode" />
               <item name="objectsdetection" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="notifications" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="objectsdetection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="objectsdetection" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="processors" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="objectsdetection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="objectsdetection" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -288,9 +297,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -326,26 +334,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SyncListTest">
+  <component name="RunManager" selected="JUnit.ControllerTest">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="objectsdetection" />
-      <envs />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -389,6 +383,26 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="ProcessorTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="SshCommandTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="objectsdetection" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SshCommandTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -503,19 +517,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Main" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.ControllerTest" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.ProcessorTest" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.WindowsRunnerTest" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.SyncListTest" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.ControllerTest" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.ProcessorTest" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.WindowsRunnerTest" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.SyncListTest" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.SshCommandTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.SyncListTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.ControllerTest" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.WindowsRunnerTest" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.ProcessorTest" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Main" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.ControllerTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.SshCommandTest" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.SyncListTest" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.WindowsRunnerTest" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.ProcessorTest" />
       </list>
     </recent_temporary>
   </component>
@@ -559,44 +573,45 @@
       <workItem from="1528771768150" duration="1927000" />
       <workItem from="1528852163489" duration="359000" />
       <workItem from="1528852628325" duration="5420000" />
-      <workItem from="1528906115257" duration="11778000" />
+      <workItem from="1528906115257" duration="11832000" />
+      <workItem from="1528935660264" duration="5220000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ControllerTest - 2018.06.13 at 13h 23m 30s.xml">
+    <history-entry file="ControllerTest - 2018.06.13 at 21h 23m 01s.xml">
       <configuration name="ControllerTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ControllerTest - 2018.06.13 at 13h 25m 15s.xml">
-      <configuration name="ControllerTest" configurationId="JUnit" />
+    <history-entry file="SshCommandTest - 2018.06.13 at 21h 09m 57s.xml">
+      <configuration name="SshCommandTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ControllerTest - 2018.06.13 at 13h 26m 34s.xml">
-      <configuration name="ControllerTest" configurationId="JUnit" />
+    <history-entry file="SshCommandTest - 2018.06.13 at 21h 10m 45s.xml">
+      <configuration name="SshCommandTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ControllerTest - 2018.06.13 at 14h 09m 13s.xml">
-      <configuration name="ControllerTest" configurationId="JUnit" />
+    <history-entry file="SshCommandTest - 2018.06.13 at 21h 11m 18s.xml">
+      <configuration name="SshCommandTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ControllerTest - 2018.06.13 at 14h 10m 47s.xml">
-      <configuration name="ControllerTest" configurationId="JUnit" />
+    <history-entry file="SshCommandTest - 2018.06.13 at 21h 12m 25s.xml">
+      <configuration name="SshCommandTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ControllerTest - 2018.06.13 at 14h 19m 23s.xml">
-      <configuration name="ControllerTest" configurationId="JUnit" />
+    <history-entry file="SshCommandTest - 2018.06.13 at 21h 13m 32s.xml">
+      <configuration name="SshCommandTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SyncListTest - 2018.06.13 at 16h 54m 23s.xml">
-      <configuration name="SyncListTest" configurationId="JUnit" />
+    <history-entry file="SshCommandTest - 2018.06.13 at 21h 14m 34s.xml">
+      <configuration name="SshCommandTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SyncListTest - 2018.06.13 at 16h 55m 04s.xml">
-      <configuration name="SyncListTest" configurationId="JUnit" />
+    <history-entry file="SshCommandTest - 2018.06.13 at 21h 20m 29s.xml">
+      <configuration name="SshCommandTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SyncListTest - 2018.06.13 at 16h 55m 35s.xml">
-      <configuration name="SyncListTest" configurationId="JUnit" />
+    <history-entry file="SshCommandTest - 2018.06.13 at 21h 20m 43s.xml">
+      <configuration name="SshCommandTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SyncListTest - 2018.06.13 at 16h 56m 35s.xml">
-      <configuration name="SyncListTest" configurationId="JUnit" />
+    <history-entry file="SshCommandTest - 2018.06.13 at 21h 20m 58s.xml">
+      <configuration name="SshCommandTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="144167000" />
+    <option name="totallyTimeSpent" value="149441000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-13" y="-13" width="2762" height="1770" extended-state="6" />
@@ -614,7 +629,7 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39973614" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32849604" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -622,7 +637,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31860158" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298153" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33905014" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15747733" sideWeight="0.75329816" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1597432" sideWeight="0.75329816" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298153" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -681,7 +696,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/logs/testLog-info.log" />
     <entry file="file://$PROJECT_DIR$/logs/testLog-debug.log" />
     <entry file="file://$PROJECT_DIR$/logs/testLog-error.log" />
     <entry file="file://$PROJECT_DIR$/src/main/java/I_Processor.java" />
@@ -704,9 +718,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -798,7 +810,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
           <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -822,32 +833,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/logs/l.log" />
     <entry file="file://$PROJECT_DIR$/logs/log-error.log" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/objectsdetection/helpers/Constants.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="428">
-          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/Thread.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1022">
           <caret line="758" column="25" lean-forward="true" selection-start-line="758" selection-start-column="25" selection-end-line="758" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="857">
-          <caret line="36" column="31" lean-forward="true" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
           <folding />
         </state>
       </provider>
@@ -860,17 +854,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="198">
-            <caret line="6" column="19" lean-forward="false" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/log4j2.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="924">
@@ -879,20 +862,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/logs/log-info.log">
-      <provider selected="true" editor-type-id="LogFileEditorProvider">
-        <state relative-caret-position="-41580">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logs/log-debug.log">
-      <provider selected="true" editor-type-id="LogFileEditorProvider">
-        <state relative-caret-position="-227">
-          <caret line="0" column="21" lean-forward="false" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/log-info.log" />
+    <entry file="file://$PROJECT_DIR$/logs/log-debug.log" />
     <entry file="file://$PROJECT_DIR$/src/main/java/objectsdetection/videostreamingsplitting/VideoStreamingAndSplittingWindows.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="760">
@@ -909,36 +880,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ControllerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="30" column="17" lean-forward="true" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/objectsdetection/videostreamingsplitting/VideoStreamingAndSplittingLinux.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-143">
           <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/objectsdetection/processors/WatsonProcessor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="66" column="0" lean-forward="false" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/objectsdetection/notifications/TwilioSms.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -980,28 +925,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/objectsdetection/Controller.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="317">
-          <caret line="74" column="38" lean-forward="false" selection-start-line="74" selection-start-column="38" selection-end-line="74" selection-end-column="38" />
+        <state relative-caret-position="660">
+          <caret line="70" column="21" lean-forward="true" selection-start-line="70" selection-start-column="21" selection-end-line="70" selection-end-column="21" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/objectsdetection/Consumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="792">
-          <caret line="94" column="48" lean-forward="false" selection-start-line="94" selection-start-column="48" selection-end-line="94" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/SyncListTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="16" column="46" lean-forward="false" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
+        <state relative-caret-position="132">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="18" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="594">
+            <caret line="18" column="100" lean-forward="true" selection-start-line="18" selection-start-column="100" selection-end-line="18" selection-end-column="100" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SshCommandTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="17" column="24" lean-forward="true" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="false" />
           </folding>
@@ -1010,16 +964,64 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/objectsdetection/helpers/Helper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
-          <caret line="103" column="9" lean-forward="false" selection-start-line="103" selection-start-column="9" selection-end-line="103" selection-end-column="9" />
+        <state relative-caret-position="362">
+          <caret line="147" column="29" lean-forward="false" selection-start-line="147" selection-start-column="29" selection-end-line="147" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1023">
+          <caret line="36" column="26" lean-forward="true" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/objectsdetection/helpers/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="614">
+          <caret line="38" column="69" lean-forward="true" selection-start-line="38" selection-start-column="69" selection-end-line="38" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/objectsdetection/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="94" column="27" lean-forward="true" selection-start-line="94" selection-start-column="27" selection-end-line="94" selection-end-column="27" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config/config.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        <state relative-caret-position="560">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/objectsdetection/notifications/TwilioSms.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="701">
+          <caret line="35" column="46" lean-forward="false" selection-start-line="35" selection-start-column="46" selection-end-line="35" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/objectsdetection/processors/WatsonProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="725">
+          <caret line="80" column="26" lean-forward="true" selection-start-line="80" selection-start-column="26" selection-end-line="80" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/objectsdetection/Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="746">
+          <caret line="108" column="56" lean-forward="false" selection-start-line="108" selection-start-column="56" selection-end-line="108" selection-end-column="56" />
           <folding />
         </state>
       </provider>

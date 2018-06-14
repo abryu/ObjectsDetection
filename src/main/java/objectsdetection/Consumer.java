@@ -92,14 +92,14 @@ public class Consumer implements Runnable {
               filePathToProcess = imagesList.get(randomIndex);
             } catch (IndexOutOfBoundsException | IllegalArgumentException e) {
               logger.error(e);
-              logger.info("Exception: Use the end index of this divided part");
+              logger.debug("Exception: Use the end index of this divided part");
               randomIndex = endIndex;
               filePathToProcess = imagesList.get(randomIndex);
             }
 
             imagesList.set(randomIndex, null);
 
-            logger.info(String.format("StartIndex %d, EndIndex %d, RandomIndex %d (File Name %s), ListSize %d, eachPart %d %n",
+            logger.debug(String.format("StartIndex %d, EndIndex %d, RandomIndex %d (File Name %s), ListSize %d, eachPart %d %n",
                     startIndex, endIndex, randomIndex, filePathToProcess, numOfImagesToProcess, sizeOfDividedPart));
 
             Future f = threadPool.submit(new WatsonProcessor(filePathToProcess, service));
@@ -110,7 +110,7 @@ public class Consumer implements Runnable {
           }
         }
 
-        logger.info(String.format("Cleaning List from %d to %d %n", 0, initSize));
+        logger.debug(String.format("Cleaning List from %d to %d %n", 0, initSize));
 
         List<String> imagesToClean = new ArrayList<String>(imagesList.subList(0, numOfImagesToProcess));
 
@@ -131,7 +131,7 @@ public class Consumer implements Runnable {
 
             //logger.info("Deleting " + imageFileName + " " + new File(imageFileName).delete());
 
-            logger.info("Consumer Deleting " + imageFileName);
+            logger.debug("Consumer Deleting " + imageFileName);
             Path p = Paths.get(imageFileName);
             try {
               Files.delete(p);
