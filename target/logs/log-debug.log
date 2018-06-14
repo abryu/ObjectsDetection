@@ -1,0 +1,1 @@
+2018.06.14 00:29:46 EDT DEBUG objectsdetection.helpers.Helper 127 runSshCommandOnPi - Running pgrep raspivid && pgrep vlc on host 192.168.0.103
