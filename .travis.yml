@@ -13,6 +13,6 @@ deploy:
     secure: O51Uyl6PjNcUtCE9Uu5PeKFLbp+u314FcOe5KJf6ZG7nMQx/hvCu3KWjsjHwiSci7yfcyQ+kbsL11vCmgmyLWpRaw/vE8muw9o3/m+MRt/q8Gfd2m3XYJPHPBHOzQ2bzPErYAUNos6JR7dB3JIu3IW3aXhVmBE3Yk4Bpf2dwwxFbqUf/yZJkIME0KgM672yGxvHGH5IMqVoR7C82be1TMVvJuIuH44lVMz2ZEvc9ks8l01lQ4LBJgDczCSLaKkMCyk9tm2lP+zL+tfItalHXT0Y1fZVX1xgCBphTycZ0QOCpqMNsolHHMnJ0Bz1zRr+DSqqQjz5TMgs0atG3QB97q/n8P0j3mGbsGMryhwWd5pz3acn3RR7MrfhTlfcMqQoNjNxzPKN8dr+1f0K04O/lyCV3SbP6maLSQp2RmDOEOPCfrlX5CNZXSI7Xj7JJ8btj4PZP7UhOnzV8VOjUiUc145E6OptrzzKO1CuExkEQwOefLRxYIzyHS3vmMKYwD0/aEBUklhYKT/vqGlb0MlCt/6PFypN66D4hYIY1nOQgSDjXD8YoU7zkiUVKHsm+ogPpOeGUfL3bY9Z1/nF3vdSsWf3Dwk+7paqwPoHXwOpVzOYykfjeBuNw9YeduO9o0H+kfB6I3UR2JQMk6UdFEh87nc3qj2cQX/5WfkvWGDfhwBc=
   file:
     - target/objectsdetection-1.0-SNAPSHOT.jar
-    - config/*
+    - config/config.properties
   on:
     repo: abryu/ObjectsDetection
