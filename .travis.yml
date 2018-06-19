@@ -10,3 +10,4 @@ deploy:
   file: target/objectsdetection-1.0-SNAPSHOT.jar
   on:
     repo: abryu/ObjectsDetection
+    on: master
