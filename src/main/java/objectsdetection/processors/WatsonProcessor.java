@@ -1,5 +1,8 @@
 package objectsdetection.processors;
 
+import com.ibm.watson.developer_cloud.service.exception.NotFoundException;
+import com.ibm.watson.developer_cloud.service.exception.RequestTooLargeException;
+import com.ibm.watson.developer_cloud.service.exception.ServiceResponseException;
 import com.ibm.watson.developer_cloud.visual_recognition.v3.VisualRecognition;
 import com.ibm.watson.developer_cloud.visual_recognition.v3.model.ClassifiedImages;
 
@@ -68,14 +71,33 @@ public class WatsonProcessor implements Runnable, I_Processor {
 
     logger.info(String.format("Classifying %s on Thread %s \n", fileName.toString(), Thread.currentThread().getName()));
 
-    ClassifyOptions classifyOptions = new ClassifyOptions.Builder()
-            .imagesFile(input).imagesFilename(fileName.toString())
-            .threshold(Float.parseFloat(configProp.get("THRESHOLD")))
-            .owners(Arrays.asList(configProp.get("OWNER")))
-            .build();
-    ClassifiedImages result = service.classify(classifyOptions).execute();
+    ClassifyOptions classifyOptions;
+    ClassifiedImages result = null;
 
-    parseResult(result);
+    try {
+      // Invoke a Visual Recognition method
+      classifyOptions = new ClassifyOptions.Builder()
+              .imagesFile(input).imagesFilename(fileName.toString())
+              .threshold(Float.parseFloat(configProp.get("THRESHOLD")))
+              .owners(Arrays.asList(configProp.get("OWNER")))
+              .build();
+      result = service.classify(classifyOptions).execute();
+    } catch (NotFoundException e) {
+      // Handle Not Found (404) exception
+      logger.error(e);
+      System.out.println("Handle Not Found (404) exception ; Service returned status code " + e.getStatusCode() + ": " + e.getMessage());
+    } catch (RequestTooLargeException e) {
+      // Handle Request Too Large (413) exception
+      logger.error(e);
+      System.out.println("Handle Request Too Large (413) exception ; Service returned status code " + e.getStatusCode() + ": " + e.getMessage());
+    } catch (ServiceResponseException e) {
+      // Base class for all exceptions caused by error responses from the service
+      logger.error(e);
+      System.out.println("Base class for all exceptions ; Service returned status code " + e.getStatusCode() + ": " + e.getMessage());
+    }
+
+    if (result == null)
+      parseResult(result);
 
     try {
       input.close();
