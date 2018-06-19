@@ -101,6 +101,7 @@ public class WatsonProcessor implements Runnable, I_Processor {
         killer = new VideoStreamingAndSplittingLinux();
       }
 
+      logger.debug("Killing VLC process in local");
       killer.killSteamingVideo();
 
       System.exit(1);

@@ -7,11 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e89a8e41-6661-4178-9e7a-b1a121aa3d2b" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/objectsdetection/helpers/Constants.java" afterPath="$PROJECT_DIR$/src/main/java/objectsdetection/helpers/Constants.java" />
       <change beforePath="$PROJECT_DIR$/src/main/java/objectsdetection/processors/WatsonProcessor.java" afterPath="$PROJECT_DIR$/src/main/java/objectsdetection/processors/WatsonProcessor.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/objectsdetection/videostreamingsplitting/I_VideoStreamingAndSplitting.java" afterPath="$PROJECT_DIR$/src/main/java/objectsdetection/videostreamingsplitting/I_VideoStreamingAndSplitting.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/objectsdetection/videostreamingsplitting/VideoStreamingAndSplittingLinux.java" afterPath="$PROJECT_DIR$/src/main/java/objectsdetection/videostreamingsplitting/VideoStreamingAndSplittingLinux.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/objectsdetection/videostreamingsplitting/VideoStreamingAndSplittingWindows.java" afterPath="$PROJECT_DIR$/src/main/java/objectsdetection/videostreamingsplitting/VideoStreamingAndSplittingWindows.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -34,14 +30,44 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
-      <file leaf-file-name="WatsonProcessor.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="WatsonProcessor.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/objectsdetection/processors/WatsonProcessor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="95" column="0" lean-forward="true" selection-start-line="95" selection-start-column="0" selection-end-line="95" selection-end-column="0" />
+            <state relative-caret-position="427">
+              <caret line="103" column="48" lean-forward="false" selection-start-line="103" selection-start-column="48" selection-end-line="103" selection-end-column="48" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VideoStreamingAndSplittingLinux.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/objectsdetection/videostreamingsplitting/VideoStreamingAndSplittingLinux.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-7">
+              <caret line="36" column="36" lean-forward="true" selection-start-line="36" selection-start-column="36" selection-end-line="36" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Constants.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/objectsdetection/helpers/Constants.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="604">
+              <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VideoStreamingAndSplittingWindows.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/objectsdetection/videostreamingsplitting/VideoStreamingAndSplittingWindows.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="356">
+              <caret line="55" column="26" lean-forward="true" selection-start-line="55" selection-start-column="26" selection-end-line="55" selection-end-column="26" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -169,8 +195,8 @@
         <option value="$PROJECT_DIR$/.travis.yml" />
         <option value="$PROJECT_DIR$/src/main/java/objectsdetection/videostreamingsplitting/I_VideoStreamingAndSplitting.java" />
         <option value="$PROJECT_DIR$/src/main/java/objectsdetection/helpers/Constants.java" />
-        <option value="$PROJECT_DIR$/src/main/java/objectsdetection/videostreamingsplitting/VideoStreamingAndSplittingLinux.java" />
         <option value="$PROJECT_DIR$/src/main/java/objectsdetection/videostreamingsplitting/VideoStreamingAndSplittingWindows.java" />
+        <option value="$PROJECT_DIR$/src/main/java/objectsdetection/videostreamingsplitting/VideoStreamingAndSplittingLinux.java" />
         <option value="$PROJECT_DIR$/src/main/java/objectsdetection/processors/WatsonProcessor.java" />
       </list>
     </option>
@@ -572,7 +598,7 @@
       <workItem from="1528991284577" duration="3702000" />
       <workItem from="1528995135838" duration="272000" />
       <workItem from="1528995460003" duration="7156000" />
-      <workItem from="1529428922134" duration="6719000" />
+      <workItem from="1529428922134" duration="7546000" />
     </task>
     <servers />
   </component>
@@ -609,7 +635,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="175222000" />
+    <option name="totallyTimeSpent" value="176049000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-13" y="-13" width="2762" height="1770" extended-state="6" />
@@ -964,14 +990,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/objectsdetection/videostreamingsplitting/VideoStreamingAndSplittingLinux.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="653">
-          <caret line="52" column="0" lean-forward="false" selection-start-line="52" selection-start-column="0" selection-end-line="59" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/SshCommandTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
@@ -980,26 +998,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/objectsdetection/videostreamingsplitting/VideoStreamingAndSplittingWindows.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="554">
-          <caret line="55" column="26" lean-forward="true" selection-start-line="55" selection-start-column="26" selection-end-line="55" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/objectsdetection/helpers/Helper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="434">
           <caret line="147" column="29" lean-forward="true" selection-start-line="147" selection-start-column="29" selection-end-line="147" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/objectsdetection/helpers/Constants.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="769">
-          <caret line="39" column="37" lean-forward="false" selection-start-line="39" selection-start-column="29" selection-end-line="39" selection-end-column="37" />
           <folding />
         </state>
       </provider>
@@ -1014,13 +1016,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/objectsdetection/videostreamingsplitting/VideoStreamingAndSplittingLinux.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="36" column="36" lean-forward="true" selection-start-line="36" selection-start-column="36" selection-end-line="36" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/objectsdetection/helpers/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="604">
+          <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/objectsdetection/processors/WatsonProcessor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="95" column="0" lean-forward="true" selection-start-line="95" selection-start-column="0" selection-end-line="95" selection-end-column="0" />
+        <state relative-caret-position="427">
+          <caret line="103" column="48" lean-forward="false" selection-start-line="103" selection-start-column="48" selection-end-line="103" selection-end-column="48" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/objectsdetection/videostreamingsplitting/VideoStreamingAndSplittingWindows.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="55" column="26" lean-forward="true" selection-start-line="55" selection-start-column="26" selection-end-line="55" selection-end-column="26" />
+          <folding />
         </state>
       </provider>
     </entry>
