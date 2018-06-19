@@ -77,7 +77,6 @@ public class WatsonProcessor implements Runnable, I_Processor {
 
     parseResult(result);
 
-
     try {
       input.close();
     } catch (IOException e) {
