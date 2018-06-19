@@ -1,8 +1,8 @@
 package objectsdetection.processors;
 
 import com.ibm.watson.developer_cloud.service.exception.NotFoundException;
-import com.ibm.watson.developer_cloud.service.exception.RequestTooLargeException;
 import com.ibm.watson.developer_cloud.service.exception.ServiceResponseException;
+import com.ibm.watson.developer_cloud.service.exception.TooManyRequestsException;
 import com.ibm.watson.developer_cloud.visual_recognition.v3.VisualRecognition;
 import com.ibm.watson.developer_cloud.visual_recognition.v3.model.ClassifiedImages;
 
@@ -86,10 +86,11 @@ public class WatsonProcessor implements Runnable, I_Processor {
       // Handle Not Found (404) exception
       logger.error(e);
       System.out.println("Handle Not Found (404) exception ; Service returned status code " + e.getStatusCode() + ": " + e.getMessage());
-    } catch (RequestTooLargeException e) {
+    } catch (TooManyRequestsException e) {
       // Handle Request Too Large (413) exception
-      logger.error(e);
-      System.out.println("Handle Request Too Large (413) exception ; Service returned status code " + e.getStatusCode() + ": " + e.getMessage());
+      logger.error("TooManyRequestsException : " + e);
+      System.out.println("Too Many Request exception ; Service returned status code " + e.getStatusCode() + ": " + e.getMessage() + " QUITTING");
+      System.exit(1);
     } catch (ServiceResponseException e) {
       // Base class for all exceptions caused by error responses from the service
       logger.error(e);
