@@ -50,4 +50,13 @@ public class VideoStreamingAndSplittingLinux implements Runnable, I_VideoStreami
     }
   }
 
+  @Override
+  public void killSteamingVideo() {
+    try {
+      Runtime.getRuntime().exec(Constants.KILL_VLC);
+    } catch (IOException e) {
+      e.printStackTrace();
+    }
+  }
+
 }

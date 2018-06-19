@@ -19,6 +19,9 @@ import objectsdetection.helpers.Constants;
 
 import objectsdetection.helpers.Helper;
 import objectsdetection.notifications.I_Notification;
+import objectsdetection.videostreamingsplitting.I_VideoStreamingAndSplitting;
+import objectsdetection.videostreamingsplitting.VideoStreamingAndSplittingLinux;
+import objectsdetection.videostreamingsplitting.VideoStreamingAndSplittingWindows;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
@@ -90,7 +93,18 @@ public class WatsonProcessor implements Runnable, I_Processor {
       // Handle Request Too Large (413) exception
       logger.error("TooManyRequestsException : " + e);
       System.out.println("Too Many Request exception ; Service returned status code " + e.getStatusCode() + ": " + e.getMessage() + " QUITTING");
+
+      I_VideoStreamingAndSplitting killer;
+      if (Helper.isWindows()) {
+        killer = new VideoStreamingAndSplittingWindows();
+      } else {
+        killer = new VideoStreamingAndSplittingLinux();
+      }
+
+      killer.killSteamingVideo();
+
       System.exit(1);
+
     } catch (ServiceResponseException e) {
       // Base class for all exceptions caused by error responses from the service
       logger.error(e);

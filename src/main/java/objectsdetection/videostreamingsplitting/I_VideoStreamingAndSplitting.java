@@ -6,4 +6,6 @@ public interface I_VideoStreamingAndSplitting {
 
   void streamingVideo();
 
+  void killSteamingVideo();
+
 }

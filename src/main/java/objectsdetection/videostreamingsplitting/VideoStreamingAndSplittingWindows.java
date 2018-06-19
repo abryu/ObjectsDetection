@@ -20,6 +20,7 @@ public class VideoStreamingAndSplittingWindows implements Runnable, I_VideoStrea
 
   /**
    * Geneate shell command for starting video streaming and splitting.
+   *
    * @return the command for starting video streaming and splitting
    */
   public String generateCommand() {
@@ -55,4 +56,15 @@ public class VideoStreamingAndSplittingWindows implements Runnable, I_VideoStrea
       e.printStackTrace();
     }
   }
+
+  @Override
+  public void killSteamingVideo() {
+    try {
+      Runtime.getRuntime().exec(Constants.KILL_VLC_WIN);
+    } catch (IOException e) {
+      e.printStackTrace();
+    }
+  }
+
+
 }
