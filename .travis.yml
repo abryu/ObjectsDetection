@@ -20,5 +20,5 @@ deploy:
   file:
     - objectsdetection-1.0-SNAPSHOT.jar
   on:
-    repo: abryu/ObjectsDetection
+    all_branches: true
     tags: false
