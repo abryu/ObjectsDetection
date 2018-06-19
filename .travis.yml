@@ -3,11 +3,17 @@ jdk:
 - openjdk8
 install: true
 script: mvn clean package -DskipTests=true
+before_deploy:
+  - pwd
+  - ls
+  - target
 deploy:
   provider: releases
+  skip_cleanup: true
   api_key:
     secure: CCsYvQcYXBPTBXKVEwR/hBHBAykhHQrXWMzsUmaaTpS8fqBxlAU24En7DkFvVFozkPx5it85rBg8PJ5w4Btx0EUOBfJj4Z5+lQYuePDh7Ox5dzOh+hN47G4Vd4xwsVAwMyzoeWS187AiH919iy7LqV/tOCbnMC90ukb9W4lk9w1KIAGGRKcvPuS1j1k6bln+qL/48s8OrIGT4MddSBrhCf/stt70bX3UoUY/t3T2fANrTeQUSYVeAAHS2MgXK2DVMi90D+ksNxnCXpNfsji0UMk4cJmKBFO3Ddl+/+64wMt/2AJ46LJ6kbadwAXH3fdlEv6AO8nX2LonVPrbpuTB6YR1kAgQxVPNvDTaaeXzXucNS96S0Ujrq4TeodlV4XZsk61fOs5+G38HMuZVOmXfeSpTb+dusuiPWJ74tKjBOtp/OIN267Nm4LlLn3tvJK828yIQflNz217Ayz2n3NTxJWWbn5+wIr9Modpbiw/XN/U5XvJy+yCoPEkK2kpp6omoyVEos6jKEzvbvrBQNxXY8ORwED9316MYF1xe2ImbIbQcCA0Z5QwAju4+Odlc7jWLbM/px6SCC0uHOKEZmjLCm8gK76VnjLbtET5gv/iF3qjLtt6UAa6CrUDsZmGv5AK2KQhckCMMcSg3FRTvIq/Z1ChUP0v7fKZwoP0qVdSgofw=
   file: target/objectsdetection-1.0-SNAPSHOT.jar
   on:
     repo: abryu/ObjectsDetection
-    on: master
+    tags: true
+    all_branches: true
