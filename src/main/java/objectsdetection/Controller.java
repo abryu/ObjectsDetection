@@ -46,7 +46,6 @@ public class Controller {
       logger.error("Pi Video Streaming Cannot be started; Quit");
       System.exit(1);
     }
-
   }
 
   /**

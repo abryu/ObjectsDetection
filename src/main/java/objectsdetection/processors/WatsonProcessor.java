@@ -104,12 +104,22 @@ public class WatsonProcessor implements Runnable, I_Processor {
       logger.debug("Killing VLC process in local");
       killer.killSteamingVideo();
 
+      try {
+        input.close();
+      } catch (IOException ex) {
+        ex.printStackTrace();
+      }
+
+      Helper.deleteImage(fileName);
+
       System.exit(1);
 
     } catch (ServiceResponseException e) {
       // Base class for all exceptions caused by error responses from the service
       logger.error(e);
       System.out.println("Base class for all exceptions ; Service returned status code " + e.getStatusCode() + ": " + e.getMessage());
+
+
     }
 
     if (result == null)
