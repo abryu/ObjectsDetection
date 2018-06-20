@@ -7,8 +7,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e89a8e41-6661-4178-9e7a-b1a121aa3d2b" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/objectsdetection/Controller.java" afterPath="$PROJECT_DIR$/src/main/java/objectsdetection/Controller.java" />
       <change beforePath="$PROJECT_DIR$/src/main/java/objectsdetection/processors/WatsonProcessor.java" afterPath="$PROJECT_DIR$/src/main/java/objectsdetection/processors/WatsonProcessor.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -42,11 +40,31 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="config.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/config.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="792">
+              <caret line="24" column="31" lean-forward="false" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProcessorTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ProcessorTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="792">
+              <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="WatsonProcessor.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/objectsdetection/processors/WatsonProcessor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="84" column="61" lean-forward="true" selection-start-line="84" selection-start-column="61" selection-end-line="84" selection-end-column="61" />
+            <state relative-caret-position="475">
+              <caret line="125" column="26" lean-forward="true" selection-start-line="125" selection-start-column="26" selection-end-line="125" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -588,7 +606,7 @@
       <workItem from="1528995135838" duration="272000" />
       <workItem from="1528995460003" duration="7156000" />
       <workItem from="1529428922134" duration="8271000" />
-      <workItem from="1529507538101" duration="2357000" />
+      <workItem from="1529507538101" duration="3132000" />
     </task>
     <servers />
   </component>
@@ -625,7 +643,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="179131000" />
+    <option name="totallyTimeSpent" value="179906000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-13" y="-13" width="2762" height="1770" extended-state="6" />
@@ -858,13 +876,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ProcessorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/logs/log-info.log" />
     <entry file="file://$PROJECT_DIR$/src/main/java/objectsdetection/processors/LocalTensorflowProcessor.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -877,6 +888,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1127">
           <caret line="52" column="0" lean-forward="false" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -973,6 +985,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
           <caret line="48" column="3" lean-forward="true" selection-start-line="48" selection-start-column="3" selection-end-line="48" selection-end-column="3" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -987,14 +1000,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="4" column="40" lean-forward="false" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/config.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="24" column="31" lean-forward="false" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
           <folding />
         </state>
       </provider>
@@ -1023,10 +1028,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/config/config.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="24" column="31" lean-forward="false" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ProcessorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/objectsdetection/processors/WatsonProcessor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="84" column="61" lean-forward="true" selection-start-line="84" selection-start-column="61" selection-end-line="84" selection-end-column="61" />
+        <state relative-caret-position="475">
+          <caret line="125" column="26" lean-forward="true" selection-start-line="125" selection-start-column="26" selection-end-line="125" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

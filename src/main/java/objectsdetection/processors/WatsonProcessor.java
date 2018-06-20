@@ -122,7 +122,7 @@ public class WatsonProcessor implements Runnable, I_Processor {
 
     }
 
-    if (result == null)
+    if (result != null)
       parseResult(result);
 
     try {
