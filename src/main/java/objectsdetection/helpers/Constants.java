@@ -16,7 +16,7 @@ public class Constants {
 
 
   // Watson VR
-  public static final String WATSON_VR_VERSION_DATE = "2018-03-19";
+  public static final String WATSON_VR_VERSION_DATE = "2018-05-23";
 
 
   // Notifications

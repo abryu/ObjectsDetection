@@ -1,5 +1,6 @@
 package objectsdetection;
 
+import com.ibm.watson.developer_cloud.service.security.IamOptions;
 import com.ibm.watson.developer_cloud.visual_recognition.v3.VisualRecognition;
 
 import java.io.IOException;
@@ -149,8 +150,15 @@ public class Consumer implements Runnable {
   }
 
   private void prepareVisualRecognitionService() {
-    this.service = new VisualRecognition(Constants.WATSON_VR_VERSION_DATE);
-    this.service.setApiKey(this.config.get("WATSON_VR_API_KEY"));
+    //this.service = new VisualRecognition(Constants.WATSON_VR_VERSION_DATE);
+    //this.service.setApiKey(this.config.get("WATSON_VR_API_KEY"));
+
+    IamOptions options = new IamOptions.Builder()
+            .apiKey(this.config.get("WATSON_VR_API_KEY"))
+            .build();
+
+    this.service = new VisualRecognition(Constants.WATSON_VR_VERSION_DATE, options);
+
   }
 
   private boolean checkThreadsCompletion(List<Future<Integer>> futureList) {

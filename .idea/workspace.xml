@@ -7,11 +7,48 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e89a8e41-6661-4178-9e7a-b1a121aa3d2b" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/log4j2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/objectsdetection/Consumer$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/objectsdetection/Consumer.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/objectsdetection/Controller.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/objectsdetection/Main.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/objectsdetection/Producer.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/objectsdetection/helpers/Constants.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/objectsdetection/helpers/Helper.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/objectsdetection/notifications/AwsSns.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/objectsdetection/notifications/I_Notification.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/objectsdetection/notifications/TwilioSms.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/objectsdetection/processors/I_Processor.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/objectsdetection/processors/LocalTensorflowProcessor.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/objectsdetection/processors/WatsonProcessor.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/objectsdetection/videostreamingsplitting/I_VideoStreamingAndSplitting.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/objectsdetection/videostreamingsplitting/VideoStreamingAndSplittingLinux.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/objectsdetection/videostreamingsplitting/VideoStreamingAndSplittingWindows.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/ControllerTest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/ProcessorTest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/SshCommandTest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/SyncListTest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/TestHelper.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/WindowsRunnerTest.class" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_ibm_watson_developer_cloud_assistant_5_5_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_ibm_watson_developer_cloud_assistant_6_1_0.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_ibm_watson_developer_cloud_conversation_5_5_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_ibm_watson_developer_cloud_conversation_6_1_0.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_ibm_watson_developer_cloud_core_5_5_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_ibm_watson_developer_cloud_core_6_1_0.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_ibm_watson_developer_cloud_discovery_5_5_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_ibm_watson_developer_cloud_discovery_6_1_0.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_ibm_watson_developer_cloud_java_sdk_5_5_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_ibm_watson_developer_cloud_java_sdk_6_1_0.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_ibm_watson_developer_cloud_language_translator_5_5_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_ibm_watson_developer_cloud_language_translator_6_1_0.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_ibm_watson_developer_cloud_natural_language_classifier_5_5_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_ibm_watson_developer_cloud_natural_language_classifier_6_1_0.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_ibm_watson_developer_cloud_natural_language_understanding_5_5_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_ibm_watson_developer_cloud_natural_language_understanding_6_1_0.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_ibm_watson_developer_cloud_personality_insights_5_5_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_ibm_watson_developer_cloud_personality_insights_6_1_0.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_ibm_watson_developer_cloud_speech_to_text_5_5_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_ibm_watson_developer_cloud_speech_to_text_6_1_0.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_ibm_watson_developer_cloud_text_to_speech_5_5_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_ibm_watson_developer_cloud_text_to_speech_6_1_0.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_ibm_watson_developer_cloud_tone_analyzer_5_5_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_ibm_watson_developer_cloud_tone_analyzer_6_1_0.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_ibm_watson_developer_cloud_visual_recognition_5_5_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_ibm_watson_developer_cloud_visual_recognition_6_1_0.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/objectsdetection/Controller.java" afterPath="$PROJECT_DIR$/src/main/java/objectsdetection/Controller.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/objectsdetection/Main.java" afterPath="$PROJECT_DIR$/src/main/java/objectsdetection/Main.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/objectsdetection/Producer.java" afterPath="$PROJECT_DIR$/src/main/java/objectsdetection/Producer.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/objectsdetection/notifications/TwilioSms.java" afterPath="$PROJECT_DIR$/src/main/java/objectsdetection/notifications/TwilioSms.java" />
+      <change beforePath="$PROJECT_DIR$/config/config.properties" afterPath="$PROJECT_DIR$/config/config.properties" />
+      <change beforePath="$PROJECT_DIR$/objectsdetection.iml" afterPath="$PROJECT_DIR$/objectsdetection.iml" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/objectsdetection/Consumer.java" afterPath="$PROJECT_DIR$/src/main/java/objectsdetection/Consumer.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/objectsdetection/helpers/Constants.java" afterPath="$PROJECT_DIR$/src/main/java/objectsdetection/helpers/Constants.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -37,8 +74,8 @@
       <file leaf-file-name="Consumer.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/objectsdetection/Consumer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4026">
-              <caret line="144" column="7" lean-forward="false" selection-start-line="144" selection-start-column="7" selection-end-line="144" selection-end-column="7" />
+            <state relative-caret-position="1631">
+              <caret line="159" column="36" lean-forward="false" selection-start-line="159" selection-start-column="36" selection-end-line="159" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -49,80 +86,18 @@
       <file leaf-file-name="Controller.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/objectsdetection/Controller.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="759">
-              <caret line="39" column="21" lean-forward="false" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
+            <state relative-caret-position="581">
+              <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/objectsdetection/Main.java">
+      <file leaf-file-name="config.properties" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config/config.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="627">
-              <caret line="20" column="21" lean-forward="false" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Producer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/objectsdetection/Producer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-289">
-              <caret line="68" column="36" lean-forward="true" selection-start-line="68" selection-start-column="36" selection-end-line="68" selection-end-column="36" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Constants.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/objectsdetection/helpers/Constants.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1056">
-              <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Helper.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/objectsdetection/helpers/Helper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4389">
-              <caret line="147" column="29" lean-forward="false" selection-start-line="147" selection-start-column="29" selection-end-line="147" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestHelper.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/TestHelper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="924">
-              <caret line="33" column="51" lean-forward="false" selection-start-line="33" selection-start-column="51" selection-end-line="33" selection-end-column="51" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="WatsonProcessor.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/objectsdetection/processors/WatsonProcessor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-383">
-              <caret line="118" column="22" lean-forward="true" selection-start-line="118" selection-start-column="22" selection-end-line="118" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TwilioSms.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/objectsdetection/notifications/TwilioSms.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="746">
-              <caret line="36" column="31" lean-forward="true" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
+            <state relative-caret-position="561">
+              <caret line="17" column="19" lean-forward="false" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -143,7 +118,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>t02317</find>
       <find>t02412</find>
       <find>t00652</find>
       <find>t04321</find>
@@ -173,6 +147,7 @@
       <find>logger.</find>
       <find>.info</find>
       <find>tag</find>
+      <find>version</find>
     </findStrings>
     <replaceStrings>
       <replace>syncList</replace>
@@ -235,8 +210,6 @@
         <option value="$PROJECT_DIR$/src/main/java/objectsdetection/processors/LocalTensorflowProcessor.java" />
         <option value="$PROJECT_DIR$/src/test/java/TestHelper.java" />
         <option value="$PROJECT_DIR$/src/test/java/SyncListTest.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/config/config.properties" />
         <option value="$PROJECT_DIR$/src/test/java/SshCommandTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/objectsdetection/helpers/Helper.java" />
         <option value="$PROJECT_DIR$/src/test/java/ControllerTest.java" />
@@ -245,15 +218,17 @@
         <option value="$PROJECT_DIR$/deploy.sh" />
         <option value="$PROJECT_DIR$/.travis.yml" />
         <option value="$PROJECT_DIR$/src/main/java/objectsdetection/videostreamingsplitting/I_VideoStreamingAndSplitting.java" />
-        <option value="$PROJECT_DIR$/src/main/java/objectsdetection/helpers/Constants.java" />
         <option value="$PROJECT_DIR$/src/main/java/objectsdetection/videostreamingsplitting/VideoStreamingAndSplittingWindows.java" />
         <option value="$PROJECT_DIR$/src/main/java/objectsdetection/videostreamingsplitting/VideoStreamingAndSplittingLinux.java" />
         <option value="$PROJECT_DIR$/src/main/java/objectsdetection/processors/WatsonProcessor.java" />
         <option value="$PROJECT_DIR$/src/main/java/objectsdetection/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/objectsdetection/Controller.java" />
-        <option value="$PROJECT_DIR$/src/main/java/objectsdetection/Consumer.java" />
         <option value="$PROJECT_DIR$/src/main/java/objectsdetection/Producer.java" />
         <option value="$PROJECT_DIR$/src/main/java/objectsdetection/notifications/TwilioSms.java" />
+        <option value="$PROJECT_DIR$/src/main/java/objectsdetection/helpers/Constants.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/objectsdetection/Consumer.java" />
+        <option value="$PROJECT_DIR$/config/config.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/objectsdetection/Controller.java" />
       </list>
     </option>
   </component>
@@ -425,7 +400,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ProcessorTest">
+  <component name="RunManager" selected="JUnit.ControllerTest">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -616,8 +591,8 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.ProcessorTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.ControllerTest" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.ControllerTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.ProcessorTest" />
         <item index="2" class="java.lang.String" itemvalue="JUnit.SshCommandTest" />
         <item index="3" class="java.lang.String" itemvalue="JUnit.SyncListTest" />
         <item index="4" class="java.lang.String" itemvalue="JUnit.WindowsRunnerTest" />
@@ -671,25 +646,25 @@
       <workItem from="1528995460003" duration="7156000" />
       <workItem from="1529428922134" duration="8271000" />
       <workItem from="1529507538101" duration="5452000" />
-      <workItem from="1529595494769" duration="667000" />
+      <workItem from="1529595494769" duration="4146000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ProcessorTest - 2018.06.14 at 12h 44m 59s.xml">
-      <configuration name="ProcessorTest" configurationId="JUnit" />
+    <history-entry file="ControllerTest - 2018.06.21 at 13h 43m 14s.xml">
+      <configuration name="ControllerTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ProcessorTest - 2018.06.14 at 12h 45m 21s.xml">
-      <configuration name="ProcessorTest" configurationId="JUnit" />
+    <history-entry file="ControllerTest - 2018.06.21 at 13h 43m 35s.xml">
+      <configuration name="ControllerTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ProcessorTest - 2018.06.14 at 12h 46m 09s.xml">
-      <configuration name="ProcessorTest" configurationId="JUnit" />
+    <history-entry file="ControllerTest - 2018.06.21 at 13h 44m 12s.xml">
+      <configuration name="ControllerTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SshCommandTest - 2018.06.13 at 21h 11m 18s.xml">
-      <configuration name="SshCommandTest" configurationId="JUnit" />
+    <history-entry file="ControllerTest - 2018.06.21 at 13h 49m 21s.xml">
+      <configuration name="ControllerTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SshCommandTest - 2018.06.13 at 21h 12m 25s.xml">
-      <configuration name="SshCommandTest" configurationId="JUnit" />
+    <history-entry file="ControllerTest - 2018.06.21 at 13h 57m 44s.xml">
+      <configuration name="ControllerTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="SshCommandTest - 2018.06.13 at 21h 13m 32s.xml">
       <configuration name="SshCommandTest" configurationId="JUnit" />
@@ -708,27 +683,27 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="182893000" />
+    <option name="totallyTimeSpent" value="186372000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-13" y="-13" width="2762" height="1770" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.49010554" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32849604" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31860158" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43007916" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298153" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24934037" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25679758" sideWeight="0.75329816" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25679758" sideWeight="0.75329816" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -742,7 +717,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298153" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32849604" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298153" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -793,7 +767,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/I_Processor.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/ProducerTest.java" />
     <entry file="jar://$MAVEN_REPOSITORY$/com/ibm/watson/developer_cloud/visual-recognition/5.5.0/visual-recognition-5.5.0.jar!/com/ibm/watson/developer_cloud/visual_recognition/v3/VisualRecognition.class">
       <provider selected="true" editor-type-id="text-editor">
@@ -856,6 +829,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="1125" column="0" lean-forward="false" selection-start-line="1125" selection-start-column="0" selection-end-line="1125" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -879,27 +853,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
           <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/objectsdetection/notifications/AwsSns.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/objectsdetection/processors/I_Processor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="7" column="11" lean-forward="true" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/objectsdetection/notifications/I_Notification.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -934,14 +887,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ControllerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="661">
-          <caret line="29" column="17" lean-forward="false" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logs/log-info.log" />
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -953,32 +898,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/deploy.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="2" column="9" lean-forward="false" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/objectsdetection.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.travis.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-688">
-          <caret line="58" column="18" lean-forward="true" selection-start-line="58" selection-start-column="18" selection-end-line="58" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1020,59 +943,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/config.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="792">
-          <caret line="24" column="31" lean-forward="false" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ProcessorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="792">
-          <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/objectsdetection/processors/LocalTensorflowProcessor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/objectsdetection/Consumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4026">
-          <caret line="144" column="7" lean-forward="false" selection-start-line="144" selection-start-column="7" selection-end-line="144" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/objectsdetection/Controller.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="759">
-          <caret line="39" column="21" lean-forward="false" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/objectsdetection/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="627">
           <caret line="20" column="21" lean-forward="false" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/objectsdetection/helpers/Constants.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1056">
-          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1093,28 +967,149 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/objectsdetection/Producer.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/objectsdetection/processors/I_Processor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-289">
-          <caret line="68" column="36" lean-forward="true" selection-start-line="68" selection-start-column="36" selection-end-line="68" selection-end-column="36" />
+        <state relative-caret-position="99">
+          <caret line="3" column="17" lean-forward="false" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/objectsdetection/processors/LocalTensorflowProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/objectsdetection/processors/WatsonProcessor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-383">
-          <caret line="118" column="22" lean-forward="true" selection-start-line="118" selection-start-column="22" selection-end-line="118" selection-end-column="22" />
+        <state relative-caret-position="602">
+          <caret line="87" column="30" lean-forward="false" selection-start-line="87" selection-start-column="13" selection-end-line="87" selection-end-column="30" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/objectsdetection/notifications/TwilioSms.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="746">
-          <caret line="36" column="31" lean-forward="true" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
+        <state relative-caret-position="944">
+          <caret line="42" column="4" lean-forward="false" selection-start-line="42" selection-start-column="4" selection-end-line="42" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/objectsdetection/notifications/AwsSns.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ProcessorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/objectsdetection/notifications/I_Notification.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.travis.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="18" column="22" lean-forward="false" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deploy.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="30" column="37" lean-forward="false" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="759">
+          <caret line="28" column="40" lean-forward="false" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/objectsdetection/Producer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="68" column="36" lean-forward="false" selection-start-line="68" selection-start-column="36" selection-end-line="68" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/objectsdetection/helpers/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="14" column="30" lean-forward="false" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="96" column="21" lean-forward="false" selection-start-line="96" selection-start-column="21" selection-end-line="96" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/log-info.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider">
+        <state relative-caret-position="-33990">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/ibm/watson/developer_cloud/visual-recognition/6.1.0/visual-recognition-6.1.0.jar!/com/ibm/watson/developer_cloud/visual_recognition/v3/VisualRecognition.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="78" column="9" lean-forward="false" selection-start-line="78" selection-start-column="9" selection-end-line="78" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/objectsdetection/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1631">
+          <caret line="159" column="36" lean-forward="false" selection-start-line="159" selection-start-column="36" selection-end-line="159" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/objectsdetection/Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="581">
+          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/config.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="17" column="19" lean-forward="false" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
           <folding />
         </state>
       </provider>
