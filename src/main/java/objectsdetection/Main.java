@@ -10,6 +10,7 @@ public class Main {
   /**
    * Java Main
    * Create and Start a Controller.
+   *
    * @param args cmd arguments
    */
   public static void main(String[] args) {

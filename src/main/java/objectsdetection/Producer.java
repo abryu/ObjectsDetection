@@ -1,5 +1,6 @@
 package objectsdetection;
 
+import java.io.File;
 import java.io.IOException;
 import java.nio.file.FileSystems;
 import java.nio.file.Files;
@@ -13,6 +14,7 @@ import java.util.HashMap;
 import java.util.List;
 
 import objectsdetection.helpers.Helper;
+import org.apache.commons.io.FileUtils;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
@@ -41,26 +43,19 @@ public class Producer implements Runnable {
 
   @Override
   public void run() {
-    //loadExistingImages();
+    removeExistingImageFiles();
     watchAndLoadImageDirectory();
   }
 
   /**
    * Put existing images into the Synchronized list.
    */
-  private void loadExistingImages() {
-    try {
-      Files.newDirectoryStream(this.path)
-              .forEach(image -> {
-                String fileName = image.toString();
-                logger.debug("Loading Existing File " + fileName);
-                if (checkValidFile(fileName)) {
-                  imagesList.add(formatImageFilePath(fileName));
-                }
-              });
-    } catch (IOException e) {
-      e.printStackTrace();
-    }
+  private void removeExistingImageFiles() {
+
+    List<File> files = (List<File>) FileUtils.listFiles(new File(config.get("TARGET_IMAGE_DIR")), null, true);
+    for (File f : files)
+      f.delete();
+
   }
 
   /**

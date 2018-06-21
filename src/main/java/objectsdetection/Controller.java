@@ -38,6 +38,7 @@ public class Controller {
    * Run threads of Video Streaming and Splitting, Producer, and Consumer.
    */
   public void run() {
+
     if (runVideoStreamingOnPi()) {
       createAndRunVideoStreaming();
       createAndRunProducer();
