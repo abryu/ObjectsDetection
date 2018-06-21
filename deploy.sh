@@ -1,11 +1,10 @@
 #!/bin/bash
 
 JAR_NAME=objectsdetection-1.0-SNAPSHOT.jar
-HOME_DIR=/home/turtle/Desktop
-PROGRAM_DIR=$HOME_DIR/objdetect
-IMAGE_DIR=$HOME_DIR/images
-JAVA_BIN=/home/turtle/arduino-1.8.3/java/bin/java
-
+HOME_DIR=/home/mahima
+PROGRAM_DIR=$HOME_DIR/IdeaProjects/ObjectsDetect
+IMAGE_DIR=$HOME_DIR/vlcimages
+JAVA_BIN=/usr/lib/jvm/java-8-oracle/jre/bin/java
 GITHUB_USERNAME=abryu
 GITHUB_REPO=ObjectsDetection
 
@@ -30,6 +29,6 @@ mkdir $PROGRAM_DIR/logs
 # Kill Running Conflict Processes
 ps -ef | grep java | grep -v grep | awk '{print $2}' | xargs kill
 ps -ef | grep vlc | grep -v grep | awk '{print $2}' | xargs kill
-
+pwd
 # Run
 $JAVA_BIN -jar $JAR_NAME

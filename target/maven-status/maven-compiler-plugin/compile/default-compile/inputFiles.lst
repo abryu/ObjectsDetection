@@ -1,0 +1,15 @@
+/home/mahima/IdeaProjects/ObjectsDetect/src/main/java/objectsdetection/processors/WatsonProcessor.java
+/home/mahima/IdeaProjects/ObjectsDetect/src/main/java/objectsdetection/videostreamingsplitting/VideoStreamingAndSplittingWindows.java
+/home/mahima/IdeaProjects/ObjectsDetect/src/main/java/objectsdetection/Main.java
+/home/mahima/IdeaProjects/ObjectsDetect/src/main/java/objectsdetection/videostreamingsplitting/VideoStreamingAndSplittingLinux.java
+/home/mahima/IdeaProjects/ObjectsDetect/src/main/java/objectsdetection/helpers/Constants.java
+/home/mahima/IdeaProjects/ObjectsDetect/src/main/java/objectsdetection/Producer.java
+/home/mahima/IdeaProjects/ObjectsDetect/src/main/java/objectsdetection/notifications/AwsSns.java
+/home/mahima/IdeaProjects/ObjectsDetect/src/main/java/objectsdetection/helpers/Helper.java
+/home/mahima/IdeaProjects/ObjectsDetect/src/main/java/objectsdetection/Controller.java
+/home/mahima/IdeaProjects/ObjectsDetect/src/main/java/objectsdetection/processors/I_Processor.java
+/home/mahima/IdeaProjects/ObjectsDetect/src/main/java/objectsdetection/notifications/I_Notification.java
+/home/mahima/IdeaProjects/ObjectsDetect/src/main/java/objectsdetection/Consumer.java
+/home/mahima/IdeaProjects/ObjectsDetect/src/main/java/objectsdetection/videostreamingsplitting/I_VideoStreamingAndSplitting.java
+/home/mahima/IdeaProjects/ObjectsDetect/src/main/java/objectsdetection/processors/LocalTensorflowProcessor.java
+/home/mahima/IdeaProjects/ObjectsDetect/src/main/java/objectsdetection/notifications/TwilioSms.java
